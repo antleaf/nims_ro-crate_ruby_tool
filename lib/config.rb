@@ -2,7 +2,7 @@ require 'yaml'
 require 'logger'
 require 'colorize'
 
-config_hash = YAML.load_file("#{File.dirname(__FILE__)}/../config/config.yaml")
+config_hash = YAML.load_file("#{File.dirname(__FILE__)}/../config/config_SAMPLE.yaml")
 config_hash.each do |key_value_pair|
   key = key_value_pair[0].upcase
   value = key_value_pair[1]
