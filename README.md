@@ -11,5 +11,5 @@ This utility has a dependency on `[ro-crate-ruby](https://github.com/fbacall/ro-
 3. Edit `./config/config.yaml`:
   1. set `sample_data_folder_path:` to the path to a sample data folder on your local filesystem
   2. set `generated_ro_crates_folder_path:`to the path to an empty folder on your local filesystem
-4. Examine the three examples in `./console.rb` and experiment with them! This file is designed to be run from the command-line.
+4. Examine the three examples in `./console.rb` and experiment with them! This file is designed to be run from the command-line. You will need to change the paths as appropriate to our local folders
 

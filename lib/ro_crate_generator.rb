@@ -9,10 +9,10 @@ class ROCrateGenerator
       Dir.chdir(input_folder_path) do
         Dir.glob("**/*").each do |path|
           if File.file?(path)
-            crate.add_file(path,path: path)
+            crate.add_file(path,path)
             LOG.debug("Added file with path '#{path}' to RO-Crate")
           elsif File.directory?(path)
-            crate.add_directory(path,path: path)
+            crate.add_directory(path,path)
             LOG.debug("Added directory with path '#{path}' to RO-Crate")
           end
         end
