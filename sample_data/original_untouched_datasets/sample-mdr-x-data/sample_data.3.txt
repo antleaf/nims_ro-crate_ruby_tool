@@ -1,0 +1,233 @@
+Data homo DSC NIMS
+Data homo DSC NIMS Dumbbell
+Data homo DSC NIMS Dumbbell Check experiment txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190329 EA9 30c N1 core 3 txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190329 EA9 30c N2 core 2 txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190401 EA9 30c N3 core 3 txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190401 EA9 30c N4 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190401 EA9 30c N5 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190402 EA9 30c N10 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190402 EA9 30c N6 core 2 txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190402 EA9 30c N7 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190402 EA9 30c N8 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190402 EA9 30c N9 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N10 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N1 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N2 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N3 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N4 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N5 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N6 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N7 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N8 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N9 core txt
+Data homo DSC NIMS Dumbbell core txt
+Data homo DSC NIMS Dumbbell core txt 171016 MA1B 30c core txt
+Data homo DSC NIMS Dumbbell core txt 171016 MA1B 45c core txt
+Data homo DSC NIMS Dumbbell core txt 171016 MA1B 60c core txt
+Data homo DSC NIMS Dumbbell core txt 171016 MA1B 70c core txt
+Data homo DSC NIMS Dumbbell core txt 171016 MA1B 75c core txt
+Data homo DSC NIMS Dumbbell core txt 171023 MA3 30c core 01 txt
+Data homo DSC NIMS Dumbbell core txt 171023 MA3 45c core 02 txt
+Data homo DSC NIMS Dumbbell core txt 171023 MA3 60c core 03 txt
+Data homo DSC NIMS Dumbbell core txt 171023 MA3 70c core 04 txt
+Data homo DSC NIMS Dumbbell core txt 171023 MA3 75c core 05 txt
+Data homo DSC NIMS Dumbbell core txt 171024 J700GP 30c core 11 txt
+Data homo DSC NIMS Dumbbell core txt 171024 J700GP 45c core 12 txt
+Data homo DSC NIMS Dumbbell core txt 171024 J700GP 60c core 13 txt
+Data homo DSC NIMS Dumbbell core txt 171024 J700GP 70c core 14 txt
+Data homo DSC NIMS Dumbbell core txt 171024 J700GP 75c core 15 txt
+Data homo DSC NIMS Dumbbell core txt 171025 F704NP 30c core 16 2 txt
+Data homo DSC NIMS Dumbbell core txt 171025 F704NP 45c core 17 2 txt
+Data homo DSC NIMS Dumbbell core txt 171025 F704NP 70c core 19 2 txt
+Data homo DSC NIMS Dumbbell core txt 171025 F704NP 75c core 20 2 txt
+Data homo DSC NIMS Dumbbell core txt 171027 E100GPL 30c core 26 txt
+Data homo DSC NIMS Dumbbell core txt 171027 E100GPL 70c core 29 txt
+Data homo DSC NIMS Dumbbell core txt 171027 F300SP 30c core 21 txt
+Data homo DSC NIMS Dumbbell core txt 171027 F300SP 60c core 23 txt
+Data homo DSC NIMS Dumbbell core txt 171027 F300SP 70c core 24 txt
+Data homo DSC NIMS Dumbbell core txt 171027 F300SP 75c core 25 txt
+Data homo DSC NIMS Dumbbell core txt 171030 E100GPL 75c core 30 2 txt
+Data homo DSC NIMS Dumbbell core txt 171101 PM600A 30c core 31 txt
+Data homo DSC NIMS Dumbbell core txt 171101 PM600A 45c core 32 txt
+Data homo DSC NIMS Dumbbell core txt 171101 PM600A 60c core 33 txt
+Data homo DSC NIMS Dumbbell core txt 171102 E100GPL 45c core 27 2 txt
+Data homo DSC NIMS Dumbbell core txt 171102 E100GPL 60c core 28 2 txt
+Data homo DSC NIMS Dumbbell core txt 171102 F300SP 45c core 22 2 txt
+Data homo DSC NIMS Dumbbell core txt 171102 F704NP 60c core 18 2 txt
+Data homo DSC NIMS Dumbbell core txt 171107 PM600A 70c core 34 txt
+Data homo DSC NIMS Dumbbell core txt 171107 PM600A 75c core 35 txt
+Data homo DSC NIMS Dumbbell core txt 171109 PM900A 30c core 41 txt
+Data homo DSC NIMS Dumbbell core txt 171109 PM900A 45c core 42 txt
+Data homo DSC NIMS Dumbbell core txt 171109 PM900A 60c core 43 txt
+Data homo DSC NIMS Dumbbell core txt 171109 PM900A 70c core 44 txt
+Data homo DSC NIMS Dumbbell core txt 171109 PM900A 75c core 45 txt
+Data homo DSC NIMS Dumbbell core txt 171113 PHA03A 30c core 46 txt
+Data homo DSC NIMS Dumbbell core txt 171113 PHA03A 45c core 47 txt
+Data homo DSC NIMS Dumbbell core txt 171113 PHA03A 60c core 48 txt
+Data homo DSC NIMS Dumbbell core txt 171113 PHA03A 70c core 49 txt
+Data homo DSC NIMS Dumbbell core txt 171113 PHA03A 75c core 50 txt
+Data homo DSC NIMS Dumbbell core txt 171115 J105G 30c core 51 txt
+Data homo DSC NIMS Dumbbell core txt 171115 J105G 45c core 52 txt
+Data homo DSC NIMS Dumbbell core txt 171115 J105G 60c core 53 txt
+Data homo DSC NIMS Dumbbell core txt 171115 J105G 70c core 54 txt
+Data homo DSC NIMS Dumbbell core txt 171115 J105G 75c core 55 txt
+Data homo DSC NIMS Dumbbell core txt 171121 PM801A 30c core 36 txt
+Data homo DSC NIMS Dumbbell core txt 171121 PM801A 45c core 37 txt
+Data homo DSC NIMS Dumbbell core txt 171121 PM801A 60c core 38 txt
+Data homo DSC NIMS Dumbbell core txt 171121 PM801A 70c core 39 txt
+Data homo DSC NIMS Dumbbell core txt 171121 PM801A 75c core 40 txt
+Data homo DSC NIMS Dumbbell core txt 171122 EA9 30c core 56 2 txt
+Data homo DSC NIMS Dumbbell core txt 171122 EA9 45c core 57 txt
+Data homo DSC NIMS Dumbbell core txt 171122 EA9 60c core 58 2 txt
+Data homo DSC NIMS Dumbbell core txt 171122 EA9 70c core 59 txt
+Data homo DSC NIMS Dumbbell core txt 171124 EA9 75c core 60 2 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY4 30c core 66 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY4 45c core 67 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY4 60c core 68 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY4 70c core 69 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY4 75c core 70 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY6 30c core 61 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY6 45c core 62 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY6 60c core 63 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY6 70c core 64 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY6 75c core 65 txt
+Data homo DSC NIMS Dumbbell core txt 171205 NIMS a1 30c core 71 txt
+Data homo DSC NIMS Dumbbell core txt 171205 NIMS a1 45c core 72 txt
+Data homo DSC NIMS Dumbbell core txt 171205 NIMS a1 60c core 73 txt
+Data homo DSC NIMS Dumbbell core txt 171205 NIMS a1 70c core 74 txt
+Data homo DSC NIMS Dumbbell core txt 171206 NIMS a1 75c core 75 2 txt
+Data homo DSC NIMS Dumbbell core txt 171207 NIMS a3 30c core 76 txt
+Data homo DSC NIMS Dumbbell core txt 171207 NIMS a3 45c core 77 txt
+Data homo DSC NIMS Dumbbell core txt 171207 NIMS a3 60c core 78 txt
+Data homo DSC NIMS Dumbbell core txt 171207 NIMS a3 70c core 79 txt
+Data homo DSC NIMS Dumbbell core txt 171207 NIMS a3 75c core 80 txt
+Data homo DSC NIMS Dumbbell core txt 171213 NIMS a2 30c core 81 txt
+Data homo DSC NIMS Dumbbell core txt 171213 NIMS a2 45c core 82 txt
+Data homo DSC NIMS Dumbbell core txt 171213 NIMS a2 60c core 83 txt
+Data homo DSC NIMS Dumbbell core txt 171213 NIMS a2 70c core 84 txt
+Data homo DSC NIMS Dumbbell core txt 171213 NIMS a2 75c core 85 txt
+Data homo DSC NIMS Dumbbell skin txt
+Data homo DSC NIMS Dumbbell skin txt 171106 MA3 30c skin 01 txt
+Data homo DSC NIMS Dumbbell skin txt 171114 MA1B 30c skin 06 txt
+Data homo DSC NIMS Dumbbell skin txt 171114 MA1B 45c skin 07 txt
+Data homo DSC NIMS Dumbbell skin txt 171114 MA1B 60c skin 08 txt
+Data homo DSC NIMS Dumbbell skin txt 171114 MA1B 70c skin 09 txt
+Data homo DSC NIMS Dumbbell skin txt 171114 MA1B 75c skin 10 txt
+Data homo DSC NIMS Dumbbell skin txt 171120 MA3 30c skin 01 txt
+Data homo DSC NIMS Dumbbell skin txt 171120 MA3 45c skin 02 txt
+Data homo DSC NIMS Dumbbell skin txt 171120 MA3 60c skin 03 txt
+Data homo DSC NIMS Dumbbell skin txt 171120 MA3 70c skin 04 txt
+Data homo DSC NIMS Dumbbell skin txt 171120 MA3 75c skin 05 txt
+Data homo DSC NIMS Dumbbell skin txt 171204 J700GP 30c skin 11 txt
+Data homo DSC NIMS Dumbbell skin txt 171204 J700GP 45c skin 12 txt
+Data homo DSC NIMS Dumbbell skin txt 171204 J700GP 60c skin 13 txt
+Data homo DSC NIMS Dumbbell skin txt 171204 J700GP 70c skin 14 txt
+Data homo DSC NIMS Dumbbell skin txt 171204 J700GP 75c skin 15 txt
+Data homo DSC NIMS Dumbbell skin txt 171211 F300SP 45c skin 22 txt
+Data homo DSC NIMS Dumbbell skin txt 171211 F300SP 75c skin 25 txt
+Data homo DSC NIMS Dumbbell skin txt 171212 F300SP 30c skin 21 2 txt
+Data homo DSC NIMS Dumbbell skin txt 171212 F300SP 60c skin 23 2 txt
+Data homo DSC NIMS Dumbbell skin txt 171212 F300SP 70c skin 24 2 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 E100GPL 45c skin 27 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 E100GPL 70c skin 29 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 E100GPL 75c skin 30 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 J105G 30c skin 51 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 J105G 45c skin 52 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 J105G 60c skin 53 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 J105G 70c skin 54 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 J105G 75c skin 55 txt
+Data homo DSC NIMS Dumbbell skin txt 171218 E100GPL 30c skin 26 txt
+Data homo DSC NIMS Dumbbell skin txt 171218 E100GPL 60c skin 28 txt
+Data homo DSC NIMS Dumbbell skin txt 171219 EA9 45c skin 57 txt
+Data homo DSC NIMS Dumbbell skin txt 171219 EA9 60c skin 58 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 EA9 30c skin 56 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 EA9 70c skin 59 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM600A 30c skin 31 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM600A 45c skin 32 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM600A 60c skin 33 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM600A 75c skin 35 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM900A 30c skin 41 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM900A 45c skin 42 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM900A 60c skin 43 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM900A 70c skin 44 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM900A 75c skin 45 txt
+Data homo DSC NIMS Dumbbell skin txt 171221 EA9 75c skin 60 3 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY4 30c skin 66 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY4 45c skin 67 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY4 60c skin 68 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY4 70c skin 69 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY6 30c skin 61 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY6 60c skin 63 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY6 70c skin 64 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY6 75c skin 65 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 FY6 45c skin 62 2 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 NIMS a1 30c skin 71 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 NIMS a1 45c skin 72 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 NIMS a1 60c skin 73 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 NIMS a1 70c skin 74 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 NIMS a1 75c skin 75 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PHA03A 30c skin 46 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PHA03A 45c skin 47 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PHA03A 60c skin 48 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PHA03A 70c skin 49 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PHA03A 75c skin 50 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PM801A 30c skin 36 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PM801A 45c skin 37 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PM801A 60c skin 38 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PM801A 70c skin 39 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PM801A 75c skin 40 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 F704NP 30c skin 16 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 F704NP 45c skin 17 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 F704NP 60c skin 18 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 F704NP 70c skin 19 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 F704NP 75c skin 20 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 NIMS a2 30c skin 81 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 NIMS a2 45c skin 82 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 NIMS a2 60c skin 83 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 NIMS a2 70c skin 84 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 NIMS a2 75c skin 85 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 FY4 75c skin 70 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 NIMS a3 30c skin 76 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 NIMS a3 45c skin 77 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 NIMS a3 60c skin 78 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 NIMS a3 70c skin 79 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 NIMS a3 75c skin 80 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 PM600A 70c skin 34 txt
+Data homo DSC NIMS Original pellet
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171018 MA1B original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171018 MA3 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 E100GPL original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 EA09 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 F300SP original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 F704NP original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 J105G original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 J700GP original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 FY4 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 FY6 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 PHA03A original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 PM600A original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 PM801A original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 PM900A original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171102 NIMS 01 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171102 NIMS 02 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171102 NIMS 03 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171018 J700GP original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171018 MA1B original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171018 MA3 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171019 E100GPL original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171019 EA09 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171019 F300SP original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171019 F704NP original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171019 J105G original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 FY4 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 FY6 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 PHA03A original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 PM600A original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 PM801A original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 PM900A original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171102 NIMS 01 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171102 NIMS 02 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171102 NIMS 03 original a30 c5Kmin txt

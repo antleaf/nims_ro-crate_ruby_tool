@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <resultSet>
+      <work tagid="22028070">
+        <work_type>measurement</work_type>
+        <work_name>MIDATA001.108.spe</work_name>
+        <description/>
+        <project_flag>0</project_flag>
+        <project_id>
+          <tagLink>21855055</tagLink>
+        </project_id>
+        <post_id>
+          <tagLink>22026829</tagLink>
+        </post_id>
+        <created>2018-10-23 11:49:07</created>
+        <modified>2018-10-23 11:49:07</modified>
+        <work_value>
+          <template_id>
+            <tagLink>15744178</tagLink>
+          </template_id>
+          <template_type>measurement_raw</template_type>
+          <column_num>1</column_num>
+          <column_name>condition</column_name>
+          <metadata>
+            <meta type="String" key="Platform">PC</meta>
+            <meta type="String" key="Technique">XPS</meta>
+            <meta type="String" key="FileType">SPECTRUM</meta>
+            <meta type="String" key="FileDesc">MIDATA001</meta>
+            <meta type="String" key="SoftwareVersion">SS 3.6.1.16</meta>
+            <meta type="String" key="InstrumentModel">PHI Quantera SXM</meta>
+            <meta type="String" key="AcqFilename">C:\Datafiles\Yasufuku\20170606\MIDATA001.108.spe</meta>
+            <meta type="String" key="FileDate">2017 6 6</meta>
+            <meta type="String" key="AcqFileDate">2017 6 6</meta>
+            <meta type="String" key="Institution"/>
+            <meta type="String" key="Operator"/>
+            <meta type="String" key="ExperimentID">20170606</meta>
+            <meta type="String" key="AnalyserWorkFcn">4.250 eV</meta>
+            <meta type="String" key="PlatenID">MIDATA001</meta>
+            <meta type="String" key="PlatenDesc"/>
+            <meta type="String" key="PhotoFilename">MIDATA001.101.pho</meta>
+            <meta type="String" key="SXIFilename"/>
+            <meta type="String" key="SourceAnalyserAngle">45.0 d</meta>
+            <meta type="String" key="AnalyserSolidAngle">0.38 sr</meta>
+            <meta type="String" key="SputterIon">Ar+</meta>
+            <meta type="String" key="SputterCurrent">0.000 uA</meta>
+            <meta type="String" key="SputterEnergy">1.000 kV</meta>
+            <meta type="String" key="FloatVolt">0.0 V</meta>
+            <meta type="String" key="SputterRaster">2.00 2.00 mm</meta>
+            <meta type="String" key="AnalyserMode">FAT</meta>
+            <meta type="String" key="SurvNumCycles">1</meta>
+            <meta type="String" key="NoSpectralReg">1</meta>
+            <meta type="String" key="SpectralRegDef">1 1 Su1s 111 2801 -0.5000 1380.0000 -20.0000 1379.0000 -19.0000 0.179640 280.00 AREA</meta>
+            <meta type="String" key="SpectralRegDef2">1 1400.0 5 0 2 1</meta>
+            <meta type="String" key="NoSpatialArea">1</meta>
+            <meta type="String" key="SpatialAreaDef">1 HP1 4 (9343.5 -21406.3 24061.0 45.0 0.0) (10743.5 -21406.3 24061.0 45.0 0.0) (10743.5 -21306.3 24061.0 45.0 0.0) (9343.5 -21306.3 24061.0 45.0 0.0)</meta>
+            <meta type="String" key="SpatialAreaDesc">1 #1 Ag foil</meta>
+            <meta type="String" key="XraySource">Al 1486.6 mono</meta>
+            <meta type="String" key="XrayPower">103.08 W</meta>
+            <meta type="String" key="XrayBeamDiameter">100.0 um</meta>
+            <meta type="String" key="XRayHighPower">yes</meta>
+            <meta type="String" key="NeutralizerCurrent">20.0 uA</meta>
+            <meta type="String" key="NeutralizerEnergy">1.40 V</meta>
+            <meta type="String" key="StagePosition">10.1270 22.9872 24.0607 45.0000 0.0044</meta>
+            <meta type="String" key="ImageSizeXY">1400.0000 100.0000 Area</meta>
+          </metadata>
+          <created>2018-10-23 11:49:08</created>
+          <modified>2018-10-23 11:49:08</modified>
+        </work_value>
+        <work_value>
+          <template_id>
+            <tagLink>15960465</tagLink>
+          </template_id>
+          <template_type>measurement</template_type>
+          <column_num>1</column_num>
+          <column_name>condition</column_name>
+          <metadata>
+            <meta type="String" key="Technique">XPS</meta>
+            <meta type="String" key="Instrument_model_identifier">PHI Quantera SXM</meta>
+            <meta type="Numeric" key="Experiment_Identifier">20170606</meta>
+            <meta type="String" key="Experiment_mode">SPECTRUM</meta>
+            <meta type="Numeric" key="Year">2017</meta>
+            <meta type="Numeric" key="Month">06</meta>
+            <meta type="Numeric" key="Day">06</meta>
+            <meta unit="um" type="Quantity" key="Analysis_source_beam_diameter">100.0</meta>
+            <meta type="String" key="Analysis_source_strength">103.08W_HP</meta>
+            <meta type="String" key="Analyser_mode">FAT</meta>
+            <meta unit="eV" type="Quantity" key="Analyser_work_function">4.250</meta>
+            <meta unit="deg" type="Quantity" key="Analyser_axis_take_off_polar_angle">45.0</meta>
+            <meta unit="sr" type="Quantity" key="Analyser_acceptance_solid_angle">0.38</meta>
+            <meta unit="eV" type="Quantity" key="Analyser_Pass_energy">280.00</meta>
+            <meta type="String" key="Analysis_region">Area</meta>
+            <meta unit="um" type="Quantity" key="Analysis_width_x">1400.0000</meta>
+            <meta unit="um" type="Quantity" key="Analysis_width_y">100.0000</meta>
+            <meta unit="V" type="Quantity" key="Flood_gun_Voltage">1.40</meta>
+            <meta unit="uA" type="Quantity" key="Flood_gun_Emission_current">20.0</meta>
+            <meta unit="V" type="Quantity" key="Ion_gun_Voltage">1000</meta>
+            <meta type="String" key="Species_label">Survey</meta>
+            <meta type="String" key="Transitions"/>
+            <meta unit="eV" type="Quantity" key="Abscissa_start">1380.0000</meta>
+            <meta unit="eV" type="Quantity" key="Abscissa_end">-20.0000</meta>
+            <meta unit="eV" type="Quantity" key="Abscissa_increment">-0.5000</meta>
+            <meta unit="s" type="Quantity" key="Collection_time">0.179640</meta>
+            <meta type="Numeric" key="Number_of_scans">5</meta>
+            <meta type="String" key="Comment">1 #1 Ag foil</meta>
+          </metadata>
+          <created>2018-10-23 11:49:09</created>
+          <modified>2018-10-23 11:49:09</modified>
+        </work_value>
+        <work_value>
+          <template_id>
+            <tagLink>15840688</tagLink>
+          </template_id>
+          <template_type>measurement_meta</template_type>
+          <column_name>measurement</column_name>
+          <column_num>1</column_num>
+          <created>2018-10-23 11:49:13</created>
+          <modified>2018-10-23 11:49:13</modified>
+          <metadata>
+            <meta type="String" key="method_category">
+              <meta type="String" key="method_main_category">分光法</meta>
+              <meta type="String" key="method_sub_category">X線光電子分光法</meta>
+            </meta>
+            <meta type="String" key="analysis_field">化学状態</meta>
+            <meta type="String" key="analysis_field">定性分析</meta>
+            <meta type="String" key="analysis_field">定量分析</meta>
+            <meta type="String" key="specimen">Ag_reference</meta>
+            <meta type="String" key="measurement_environment">真空中</meta>
+            <meta type="String" key="energy_level_transition_structure_etc_of_interest">Survey</meta>
+            <meta type="ISODateString" key="measurement_date">2017-06-06</meta>
+            <meta type="String" key="standardized_procedure_specified_number">N/A</meta>
+            <meta type="String" key="instrumentation_site">NIMS</meta>
+            <meta type="String" key="reference">N/A</meta>
+          </metadata>
+        </work_value>
+        <annotation_id>
+          <tagLink>34882182</tagLink>
+        </annotation_id>
+        <annotation_id>
+          <tagLink>34882222</tagLink>
+        </annotation_id>
+      </work>
+      <work tagid="34882243">
+        <work_type preset="work_type">specimen</work_type>
+        <work_name preset="work_name">Ag_reference</work_name>
+        <description preset="description">リポジトリ用サンプル</description>
+        <project_id>
+          <tagLink preset="project_id">22067124</tagLink>
+        </project_id>
+        <project_flag preset="project_flag">0</project_flag>
+        <post_id>
+          <tagLink preset="post_id">22026829</tagLink>
+        </post_id>
+        <created>2018-12-04 10:56:14</created>
+        <modified>2018-12-04 10:56:14</modified>
+        <work_value>
+          <template_id>
+            <tagLink>160053011</tagLink>
+          </template_id>
+          <template_type>specimen_meta</template_type>
+          <column_name>layer</column_name>
+          <column_num>1</column_num>
+          <created>2018-12-04 10:56:25</created>
+          <modified>2018-12-04 10:56:25</modified>
+          <metadata>
+            <meta type="String" key="Specimen">TY-Ag-012</meta>
+            <meta type="String" key="General_name">silver</meta>
+            <meta type="String" key="Chemical_composition">Ag</meta>
+            <meta type="String" nodeType="node" key="Material_Type">
+              <meta tagType="select" type="String" key="Material_Main_Category">metals_and_alloys</meta>
+              <meta tagType="select" type="String" key="Material_Sub_Category">rare earths</meta>
+            </meta>
+            <meta type="String" nodeType="node" key="Structural_Features">
+              <meta tagType="select" type="String" selectType="parent" key="Structure_Main_Category">phases</meta>
+              <meta tagType="select" type="String" selectType="children" key="Structure_Sub_Category">other</meta>
+            </meta>
+            <meta type="String" key="CAS_No_etc">CAS: 7440-22-4</meta>
+            <meta type="String" key="CAS_No_etc">PubChem: 23954</meta>
+            <meta type="String" key="Crystalographic_Structure">polycristal</meta>
+            <meta type="String" key="Form_Phase">plate</meta>
+            <meta type="String" key="Form_Phase">solid</meta>
+            <meta type="String" key="Polymer_Infomation">N/A</meta>
+            <meta type="ISODateString" key="purchase_date">2015-11-05</meta>
+            <meta type="String" key="supplyer">Sigma-Aldrich</meta>
+            <meta type="String" key="lot_no_or_product_no_etc"/>
+          </metadata>
+        </work_value>
+        <annotation_id>
+          <tagLink>34882316</tagLink>
+        </annotation_id>
+      </work>
+      <work tagid="34901058">
+        <work_type>mandatory</work_type>
+        <work_name>MIDATA001.108.spe</work_name>
+        <description/>
+        <project_flag>0</project_flag>
+        <project_id>
+          <tagLink>21855055</tagLink>
+        </project_id>
+        <post_id>
+          <tagLink>22026829</tagLink>
+        </post_id>
+        <created>2018-12-05 08:49:07</created>
+        <modified>2018-12-05 08:49:07</modified>
+        <work_value>
+          <template_id>
+            <tagLink>123456</tagLink>
+          </template_id>
+          <template_type>mandatory_meta</template_type>
+          <column_num>1</column_num>
+          <column_name>column</column_name>
+          <metadata>
+            <meta type="String" key="data_local_id">mdags-12345</meta>
+            <meta type="String" key="dpfc_pid">dpfc12345</meta>
+            <meta type="String" key="previous_process_id">mdags-12309</meta>
+            <meta type="String" key="relational_id">anastas-21081031456</meta>
+            <meta type="String" key="data_depositor">1111-2222-3333-9876</meta>
+            <meta type="String" key="data_depositor_affiliation">NIMS-DPFC-MDAG</meta>
+            <meta type="ISODateString" key="data_deposited_date">2018-11-06</meta>
+            <meta type="String" key="contact_person">1111-2222-3333-9876</meta>
+            <meta type="String" key="project_id">112233</meta>
+            <meta type="String" key="data_origin">experiments</meta>
+            <meta type="String" key="disclosure_category">NIMS</meta>
+            <meta type="ISODateString" key="embargo_release_date">2019-09-30</meta>
+            <meta type="String" key="specimen_initial_state">GaAs on Si</meta>
+            <meta type="String" key="specimen_final_state">Al/GaAs on Si</meta>
+            <meta type="ISODateString" key="specimen_process_purchase_date">2017-02-25</meta>
+            <meta type="String" key="specimen_description">atomic layer deposition</meta>
+            <meta type="String" key="instrument_name">ALD in situ growth monitoring instrument</meta>
+            <meta type="String" key="instrument_manufacturer">Tsukuba Nano Incorporation</meta>
+            <meta type="String" key="instrument_type">TNI-ALD-ELIP-3</meta>
+            <meta type="String" key="instrument_registered_organization">NIMS</meta>
+            <meta type="String" key="instrument_registered_department">DPFC</meta>
+            <meta key="instrument_function">
+              <meta type="String" key="instrument_function_tier_1">DepositionCoating</meta>
+              <meta type="String" key="instrument_function_tier_2">chemical vapor deposition</meta>
+            </meta>
+            <meta key="instrument_function">
+              <meta type="String" key="instrument_function_tier_1">optical</meta>
+              <meta type="String" key="instrument_function_tier_2">ellipsometry</meta>
+            </meta>
+            <meta type="String" key="instrument_operator">N/A</meta>
+            <meta type="ISODateString" key="processing_data">N/A</meta>
+            <meta type="String" key="instrument_description">N/A</meta>
+            <meta type="String" key="reference">N/A</meta>
+            <created>2018-12-05 08:50:25</created>
+            <modified>2018-12-05 08:50:25</modified>
+          </metadata>
+        </work_value>
+      </work>
+    </resultSet>

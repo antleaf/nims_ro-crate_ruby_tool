@@ -1,0 +1,1270 @@
+Data
+Data homo
+Data homo 2D SAXS SPring 8
+Data homo 2D SAXS SPring 8 MD
+Data homo 2D SAXS SPring 8 MD data
+Data homo 2D SAXS SPring 8 MD data 10 MD dat
+Data homo 2D SAXS SPring 8 MD data 10 MD tif
+Data homo 2D SAXS SPring 8 MD data 11 MD dat
+Data homo 2D SAXS SPring 8 MD data 11 MD tif
+Data homo 2D SAXS SPring 8 MD data 12 MD dat
+Data homo 2D SAXS SPring 8 MD data 12 MD tif
+Data homo 2D SAXS SPring 8 MD data 13 MD dat
+Data homo 2D SAXS SPring 8 MD data 13 MD tif
+Data homo 2D SAXS SPring 8 MD data 14 MD dat
+Data homo 2D SAXS SPring 8 MD data 14 MD tif
+Data homo 2D SAXS SPring 8 MD data 15 MD dat
+Data homo 2D SAXS SPring 8 MD data 15 MD tif
+Data homo 2D SAXS SPring 8 MD data 16 MD dat
+Data homo 2D SAXS SPring 8 MD data 16 MD tif
+Data homo 2D SAXS SPring 8 MD data 17 MD dat
+Data homo 2D SAXS SPring 8 MD data 17 MD tif
+Data homo 2D SAXS SPring 8 MD data 18 MD dat
+Data homo 2D SAXS SPring 8 MD data 18 MD tif
+Data homo 2D SAXS SPring 8 MD data 19 MD dat
+Data homo 2D SAXS SPring 8 MD data 19 MD tif
+Data homo 2D SAXS SPring 8 MD data 1 MD dat
+Data homo 2D SAXS SPring 8 MD data 1 MD tif
+Data homo 2D SAXS SPring 8 MD data 20 MD dat
+Data homo 2D SAXS SPring 8 MD data 20 MD tif
+Data homo 2D SAXS SPring 8 MD data 21 MD dat
+Data homo 2D SAXS SPring 8 MD data 21 MD tif
+Data homo 2D SAXS SPring 8 MD data 22 MD dat
+Data homo 2D SAXS SPring 8 MD data 22 MD tif
+Data homo 2D SAXS SPring 8 MD data 23 MD dat
+Data homo 2D SAXS SPring 8 MD data 23 MD tif
+Data homo 2D SAXS SPring 8 MD data 24 MD dat
+Data homo 2D SAXS SPring 8 MD data 24 MD tif
+Data homo 2D SAXS SPring 8 MD data 25 MD dat
+Data homo 2D SAXS SPring 8 MD data 25 MD tif
+Data homo 2D SAXS SPring 8 MD data 26 MD dat
+Data homo 2D SAXS SPring 8 MD data 26 MD tif
+Data homo 2D SAXS SPring 8 MD data 27 MD dat
+Data homo 2D SAXS SPring 8 MD data 27 MD tif
+Data homo 2D SAXS SPring 8 MD data 28 MD dat
+Data homo 2D SAXS SPring 8 MD data 28 MD tif
+Data homo 2D SAXS SPring 8 MD data 29 MD dat
+Data homo 2D SAXS SPring 8 MD data 29 MD tif
+Data homo 2D SAXS SPring 8 MD data 2 MD dat
+Data homo 2D SAXS SPring 8 MD data 2 MD tif
+Data homo 2D SAXS SPring 8 MD data 30 MD dat
+Data homo 2D SAXS SPring 8 MD data 30 MD tif
+Data homo 2D SAXS SPring 8 MD data 31 MD dat
+Data homo 2D SAXS SPring 8 MD data 31 MD tif
+Data homo 2D SAXS SPring 8 MD data 32 MD dat
+Data homo 2D SAXS SPring 8 MD data 32 MD tif
+Data homo 2D SAXS SPring 8 MD data 33 MD dat
+Data homo 2D SAXS SPring 8 MD data 33 MD tif
+Data homo 2D SAXS SPring 8 MD data 34 MD dat
+Data homo 2D SAXS SPring 8 MD data 34 MD tif
+Data homo 2D SAXS SPring 8 MD data 35 MD dat
+Data homo 2D SAXS SPring 8 MD data 35 MD tif
+Data homo 2D SAXS SPring 8 MD data 36 MD dat
+Data homo 2D SAXS SPring 8 MD data 36 MD tif
+Data homo 2D SAXS SPring 8 MD data 37 MD dat
+Data homo 2D SAXS SPring 8 MD data 37 MD tif
+Data homo 2D SAXS SPring 8 MD data 38 MD dat
+Data homo 2D SAXS SPring 8 MD data 38 MD tif
+Data homo 2D SAXS SPring 8 MD data 39 MD dat
+Data homo 2D SAXS SPring 8 MD data 39 MD tif
+Data homo 2D SAXS SPring 8 MD data 3 MD dat
+Data homo 2D SAXS SPring 8 MD data 3 MD tif
+Data homo 2D SAXS SPring 8 MD data 40 MD dat
+Data homo 2D SAXS SPring 8 MD data 40 MD tif
+Data homo 2D SAXS SPring 8 MD data 41 MD dat
+Data homo 2D SAXS SPring 8 MD data 41 MD tif
+Data homo 2D SAXS SPring 8 MD data 42 MD dat
+Data homo 2D SAXS SPring 8 MD data 42 MD tif
+Data homo 2D SAXS SPring 8 MD data 43 MD dat
+Data homo 2D SAXS SPring 8 MD data 43 MD tif
+Data homo 2D SAXS SPring 8 MD data 44 MD dat
+Data homo 2D SAXS SPring 8 MD data 44 MD tif
+Data homo 2D SAXS SPring 8 MD data 45 MD dat
+Data homo 2D SAXS SPring 8 MD data 45 MD tif
+Data homo 2D SAXS SPring 8 MD data 46 MD dat
+Data homo 2D SAXS SPring 8 MD data 46 MD tif
+Data homo 2D SAXS SPring 8 MD data 47 MD dat
+Data homo 2D SAXS SPring 8 MD data 47 MD tif
+Data homo 2D SAXS SPring 8 MD data 48 MD dat
+Data homo 2D SAXS SPring 8 MD data 48 MD tif
+Data homo 2D SAXS SPring 8 MD data 49 MD dat
+Data homo 2D SAXS SPring 8 MD data 49 MD tif
+Data homo 2D SAXS SPring 8 MD data 4 MD dat
+Data homo 2D SAXS SPring 8 MD data 4 MD tif
+Data homo 2D SAXS SPring 8 MD data 50 MD dat
+Data homo 2D SAXS SPring 8 MD data 50 MD tif
+Data homo 2D SAXS SPring 8 MD data 51 MD dat
+Data homo 2D SAXS SPring 8 MD data 51 MD tif
+Data homo 2D SAXS SPring 8 MD data 52 MD dat
+Data homo 2D SAXS SPring 8 MD data 52 MD tif
+Data homo 2D SAXS SPring 8 MD data 53 MD dat
+Data homo 2D SAXS SPring 8 MD data 53 MD tif
+Data homo 2D SAXS SPring 8 MD data 54 MD dat
+Data homo 2D SAXS SPring 8 MD data 54 MD tif
+Data homo 2D SAXS SPring 8 MD data 55 MD dat
+Data homo 2D SAXS SPring 8 MD data 55 MD tif
+Data homo 2D SAXS SPring 8 MD data 56 MD dat
+Data homo 2D SAXS SPring 8 MD data 56 MD tif
+Data homo 2D SAXS SPring 8 MD data 57 MD dat
+Data homo 2D SAXS SPring 8 MD data 57 MD tif
+Data homo 2D SAXS SPring 8 MD data 58 MD dat
+Data homo 2D SAXS SPring 8 MD data 58 MD tif
+Data homo 2D SAXS SPring 8 MD data 59 MD dat
+Data homo 2D SAXS SPring 8 MD data 59 MD tif
+Data homo 2D SAXS SPring 8 MD data 5 MD dat
+Data homo 2D SAXS SPring 8 MD data 5 MD tif
+Data homo 2D SAXS SPring 8 MD data 60 MD dat
+Data homo 2D SAXS SPring 8 MD data 60 MD tif
+Data homo 2D SAXS SPring 8 MD data 61 MD dat
+Data homo 2D SAXS SPring 8 MD data 61 MD tif
+Data homo 2D SAXS SPring 8 MD data 62 MD dat
+Data homo 2D SAXS SPring 8 MD data 62 MD tif
+Data homo 2D SAXS SPring 8 MD data 63 MD dat
+Data homo 2D SAXS SPring 8 MD data 63 MD tif
+Data homo 2D SAXS SPring 8 MD data 64 MD dat
+Data homo 2D SAXS SPring 8 MD data 64 MD tif
+Data homo 2D SAXS SPring 8 MD data 65 MD dat
+Data homo 2D SAXS SPring 8 MD data 65 MD tif
+Data homo 2D SAXS SPring 8 MD data 66 MD dat
+Data homo 2D SAXS SPring 8 MD data 66 MD tif
+Data homo 2D SAXS SPring 8 MD data 67 MD dat
+Data homo 2D SAXS SPring 8 MD data 67 MD tif
+Data homo 2D SAXS SPring 8 MD data 68 MD dat
+Data homo 2D SAXS SPring 8 MD data 68 MD tif
+Data homo 2D SAXS SPring 8 MD data 69 MD dat
+Data homo 2D SAXS SPring 8 MD data 69 MD tif
+Data homo 2D SAXS SPring 8 MD data 6 MD dat
+Data homo 2D SAXS SPring 8 MD data 6 MD tif
+Data homo 2D SAXS SPring 8 MD data 70 MD dat
+Data homo 2D SAXS SPring 8 MD data 70 MD tif
+Data homo 2D SAXS SPring 8 MD data 71 MD dat
+Data homo 2D SAXS SPring 8 MD data 71 MD tif
+Data homo 2D SAXS SPring 8 MD data 72 MD dat
+Data homo 2D SAXS SPring 8 MD data 72 MD tif
+Data homo 2D SAXS SPring 8 MD data 73 MD dat
+Data homo 2D SAXS SPring 8 MD data 73 MD tif
+Data homo 2D SAXS SPring 8 MD data 74 MD dat
+Data homo 2D SAXS SPring 8 MD data 74 MD tif
+Data homo 2D SAXS SPring 8 MD data 75 MD dat
+Data homo 2D SAXS SPring 8 MD data 75 MD tif
+Data homo 2D SAXS SPring 8 MD data 76 MD dat
+Data homo 2D SAXS SPring 8 MD data 76 MD tif
+Data homo 2D SAXS SPring 8 MD data 77 MD dat
+Data homo 2D SAXS SPring 8 MD data 77 MD tif
+Data homo 2D SAXS SPring 8 MD data 78 MD dat
+Data homo 2D SAXS SPring 8 MD data 78 MD tif
+Data homo 2D SAXS SPring 8 MD data 79 MD dat
+Data homo 2D SAXS SPring 8 MD data 79 MD tif
+Data homo 2D SAXS SPring 8 MD data 7 MD dat
+Data homo 2D SAXS SPring 8 MD data 7 MD tif
+Data homo 2D SAXS SPring 8 MD data 80 MD dat
+Data homo 2D SAXS SPring 8 MD data 80 MD tif
+Data homo 2D SAXS SPring 8 MD data 81 MD dat
+Data homo 2D SAXS SPring 8 MD data 81 MD tif
+Data homo 2D SAXS SPring 8 MD data 82 MD dat
+Data homo 2D SAXS SPring 8 MD data 82 MD tif
+Data homo 2D SAXS SPring 8 MD data 83 MD dat
+Data homo 2D SAXS SPring 8 MD data 83 MD tif
+Data homo 2D SAXS SPring 8 MD data 84 MD dat
+Data homo 2D SAXS SPring 8 MD data 84 MD tif
+Data homo 2D SAXS SPring 8 MD data 85 MD dat
+Data homo 2D SAXS SPring 8 MD data 85 MD tif
+Data homo 2D SAXS SPring 8 MD data 8 MD dat
+Data homo 2D SAXS SPring 8 MD data 8 MD tif
+Data homo 2D SAXS SPring 8 MD data 9 MD dat
+Data homo 2D SAXS SPring 8 MD data 9 MD tif
+Data homo 2D SAXS SPring 8 MD Reference data
+Data homo 2D SAXS SPring 8 MD Reference data behen001 dat
+Data homo 2D SAXS SPring 8 MD Reference data behen001 tif
+Data homo 2D SAXS SPring 8 MD Reference data BG001 dat
+Data homo 2D SAXS SPring 8 MD Reference data BG001 tif
+Data homo 2D SAXS SPring 8 MD Reference data drt001 tif
+Data homo 2D SAXS SPring 8 MD Reference data GC001 dat
+Data homo 2D SAXS SPring 8 MD Reference data GC001 tif
+Data homo 2D SAXS SPring 8 MD Thumbs db
+Data homo 2D SAXS SPring 8 ND
+Data homo 2D SAXS SPring 8 ND M01 dat
+Data homo 2D SAXS SPring 8 ND M01 tif
+Data homo 2D SAXS SPring 8 ND M02 dat
+Data homo 2D SAXS SPring 8 ND M02 tif
+Data homo 2D SAXS SPring 8 ND M03 dat
+Data homo 2D SAXS SPring 8 ND M03 tif
+Data homo 2D SAXS SPring 8 ND M04 dat
+Data homo 2D SAXS SPring 8 ND M04 tif
+Data homo 2D SAXS SPring 8 ND M05 dat
+Data homo 2D SAXS SPring 8 ND M05 tif
+Data homo 2D SAXS SPring 8 ND M06 dat
+Data homo 2D SAXS SPring 8 ND M06 tif
+Data homo 2D SAXS SPring 8 ND M07 dat
+Data homo 2D SAXS SPring 8 ND M07 tif
+Data homo 2D SAXS SPring 8 ND M08 dat
+Data homo 2D SAXS SPring 8 ND M08 tif
+Data homo 2D SAXS SPring 8 ND M09 dat
+Data homo 2D SAXS SPring 8 ND M09 tif
+Data homo 2D SAXS SPring 8 ND M10 dat
+Data homo 2D SAXS SPring 8 ND M10 tif
+Data homo 2D SAXS SPring 8 ND M11 dat
+Data homo 2D SAXS SPring 8 ND M11 tif
+Data homo 2D SAXS SPring 8 ND M12 dat
+Data homo 2D SAXS SPring 8 ND M12 tif
+Data homo 2D SAXS SPring 8 ND M13 dat
+Data homo 2D SAXS SPring 8 ND M13 tif
+Data homo 2D SAXS SPring 8 ND M14 dat
+Data homo 2D SAXS SPring 8 ND M14 tif
+Data homo 2D SAXS SPring 8 ND M15 dat
+Data homo 2D SAXS SPring 8 ND M15 tif
+Data homo 2D SAXS SPring 8 ND M16 dat
+Data homo 2D SAXS SPring 8 ND M16 tif
+Data homo 2D SAXS SPring 8 ND M17 dat
+Data homo 2D SAXS SPring 8 ND M17 tif
+Data homo 2D SAXS SPring 8 ND M18 dat
+Data homo 2D SAXS SPring 8 ND M18 tif
+Data homo 2D SAXS SPring 8 ND M19 dat
+Data homo 2D SAXS SPring 8 ND M19 tif
+Data homo 2D SAXS SPring 8 ND M20 dat
+Data homo 2D SAXS SPring 8 ND M20 tif
+Data homo 2D SAXS SPring 8 ND M21 dat
+Data homo 2D SAXS SPring 8 ND M21 tif
+Data homo 2D SAXS SPring 8 ND M22 dat
+Data homo 2D SAXS SPring 8 ND M22 tif
+Data homo 2D SAXS SPring 8 ND M23 dat
+Data homo 2D SAXS SPring 8 ND M23 tif
+Data homo 2D SAXS SPring 8 ND M24 dat
+Data homo 2D SAXS SPring 8 ND M24 tif
+Data homo 2D SAXS SPring 8 ND M25 dat
+Data homo 2D SAXS SPring 8 ND M25 tif
+Data homo 2D SAXS SPring 8 ND M26 dat
+Data homo 2D SAXS SPring 8 ND M26 tif
+Data homo 2D SAXS SPring 8 ND M27 dat
+Data homo 2D SAXS SPring 8 ND M27 tif
+Data homo 2D SAXS SPring 8 ND M28 dat
+Data homo 2D SAXS SPring 8 ND M28 tif
+Data homo 2D SAXS SPring 8 ND M29 dat
+Data homo 2D SAXS SPring 8 ND M29 tif
+Data homo 2D SAXS SPring 8 ND M30 dat
+Data homo 2D SAXS SPring 8 ND M30 tif
+Data homo 2D SAXS SPring 8 ND M31 dat
+Data homo 2D SAXS SPring 8 ND M31 tif
+Data homo 2D SAXS SPring 8 ND M32 dat
+Data homo 2D SAXS SPring 8 ND M32 tif
+Data homo 2D SAXS SPring 8 ND M33 dat
+Data homo 2D SAXS SPring 8 ND M33 tif
+Data homo 2D SAXS SPring 8 ND M34 dat
+Data homo 2D SAXS SPring 8 ND M34 tif
+Data homo 2D SAXS SPring 8 ND M35 dat
+Data homo 2D SAXS SPring 8 ND M35 tif
+Data homo 2D SAXS SPring 8 ND M36 dat
+Data homo 2D SAXS SPring 8 ND M36 tif
+Data homo 2D SAXS SPring 8 ND M37 dat
+Data homo 2D SAXS SPring 8 ND M37 tif
+Data homo 2D SAXS SPring 8 ND M38 dat
+Data homo 2D SAXS SPring 8 ND M38 tif
+Data homo 2D SAXS SPring 8 ND M39 dat
+Data homo 2D SAXS SPring 8 ND M39 tif
+Data homo 2D SAXS SPring 8 ND M40 dat
+Data homo 2D SAXS SPring 8 ND M40 tif
+Data homo 2D SAXS SPring 8 ND M41 dat
+Data homo 2D SAXS SPring 8 ND M41 tif
+Data homo 2D SAXS SPring 8 ND M42 dat
+Data homo 2D SAXS SPring 8 ND M42 tif
+Data homo 2D SAXS SPring 8 ND M43 dat
+Data homo 2D SAXS SPring 8 ND M43 tif
+Data homo 2D SAXS SPring 8 ND M44 dat
+Data homo 2D SAXS SPring 8 ND M44 tif
+Data homo 2D SAXS SPring 8 ND M45 dat
+Data homo 2D SAXS SPring 8 ND M45 tif
+Data homo 2D SAXS SPring 8 ND M46 dat
+Data homo 2D SAXS SPring 8 ND M46 tif
+Data homo 2D SAXS SPring 8 ND M47 dat
+Data homo 2D SAXS SPring 8 ND M47 tif
+Data homo 2D SAXS SPring 8 ND M48 dat
+Data homo 2D SAXS SPring 8 ND M48 tif
+Data homo 2D SAXS SPring 8 ND M49 dat
+Data homo 2D SAXS SPring 8 ND M49 tif
+Data homo 2D SAXS SPring 8 ND M50 dat
+Data homo 2D SAXS SPring 8 ND M50 tif
+Data homo 2D SAXS SPring 8 ND M51 dat
+Data homo 2D SAXS SPring 8 ND M51 tif
+Data homo 2D SAXS SPring 8 ND M52 dat
+Data homo 2D SAXS SPring 8 ND M52 tif
+Data homo 2D SAXS SPring 8 ND M53 dat
+Data homo 2D SAXS SPring 8 ND M53 tif
+Data homo 2D SAXS SPring 8 ND M54 dat
+Data homo 2D SAXS SPring 8 ND M54 tif
+Data homo 2D SAXS SPring 8 ND M55 dat
+Data homo 2D SAXS SPring 8 ND M55 tif
+Data homo 2D SAXS SPring 8 ND M56 dat
+Data homo 2D SAXS SPring 8 ND M56 tif
+Data homo 2D SAXS SPring 8 ND M57 dat
+Data homo 2D SAXS SPring 8 ND M57 tif
+Data homo 2D SAXS SPring 8 ND M58 dat
+Data homo 2D SAXS SPring 8 ND M58 tif
+Data homo 2D SAXS SPring 8 ND M59 dat
+Data homo 2D SAXS SPring 8 ND M59 tif
+Data homo 2D SAXS SPring 8 ND M60 dat
+Data homo 2D SAXS SPring 8 ND M60 tif
+Data homo 2D SAXS SPring 8 ND M61 dat
+Data homo 2D SAXS SPring 8 ND M61 tif
+Data homo 2D SAXS SPring 8 ND M62 dat
+Data homo 2D SAXS SPring 8 ND M62 tif
+Data homo 2D SAXS SPring 8 ND M63 dat
+Data homo 2D SAXS SPring 8 ND M63 tif
+Data homo 2D SAXS SPring 8 ND M64 dat
+Data homo 2D SAXS SPring 8 ND M64 tif
+Data homo 2D SAXS SPring 8 ND M65 dat
+Data homo 2D SAXS SPring 8 ND M65 tif
+Data homo 2D SAXS SPring 8 ND M66 dat
+Data homo 2D SAXS SPring 8 ND M66 tif
+Data homo 2D SAXS SPring 8 ND M67 dat
+Data homo 2D SAXS SPring 8 ND M67 tif
+Data homo 2D SAXS SPring 8 ND M68 dat
+Data homo 2D SAXS SPring 8 ND M68 tif
+Data homo 2D SAXS SPring 8 ND M69 dat
+Data homo 2D SAXS SPring 8 ND M69 tif
+Data homo 2D SAXS SPring 8 ND M70 dat
+Data homo 2D SAXS SPring 8 ND M70 tif
+Data homo 2D SAXS SPring 8 ND M71 dat
+Data homo 2D SAXS SPring 8 ND M71 tif
+Data homo 2D SAXS SPring 8 ND M72 dat
+Data homo 2D SAXS SPring 8 ND M72 tif
+Data homo 2D SAXS SPring 8 ND M73 dat
+Data homo 2D SAXS SPring 8 ND M73 tif
+Data homo 2D SAXS SPring 8 ND M74 dat
+Data homo 2D SAXS SPring 8 ND M74 tif
+Data homo 2D SAXS SPring 8 ND M75 dat
+Data homo 2D SAXS SPring 8 ND M75 tif
+Data homo 2D SAXS SPring 8 ND M76 dat
+Data homo 2D SAXS SPring 8 ND M76 tif
+Data homo 2D SAXS SPring 8 ND M77 dat
+Data homo 2D SAXS SPring 8 ND M77 tif
+Data homo 2D SAXS SPring 8 ND M78 dat
+Data homo 2D SAXS SPring 8 ND M78 tif
+Data homo 2D SAXS SPring 8 ND M79 dat
+Data homo 2D SAXS SPring 8 ND M79 tif
+Data homo 2D SAXS SPring 8 ND M80 dat
+Data homo 2D SAXS SPring 8 ND M80 tif
+Data homo 2D SAXS SPring 8 ND M81 dat
+Data homo 2D SAXS SPring 8 ND M81 tif
+Data homo 2D SAXS SPring 8 ND M82 dat
+Data homo 2D SAXS SPring 8 ND M82 tif
+Data homo 2D SAXS SPring 8 ND M83 dat
+Data homo 2D SAXS SPring 8 ND M83 tif
+Data homo 2D SAXS SPring 8 ND M84 dat
+Data homo 2D SAXS SPring 8 ND M84 tif
+Data homo 2D SAXS SPring 8 ND M85 dat
+Data homo 2D SAXS SPring 8 ND M85 tif
+Data homo 2D SAXS SPring 8 ND Reference data
+Data homo 2D SAXS SPring 8 ND Reference data behen001 dat
+Data homo 2D SAXS SPring 8 ND Reference data behen001 tif
+Data homo 2D SAXS SPring 8 ND Reference data BG001 dat
+Data homo 2D SAXS SPring 8 ND Reference data BG001 tif
+Data homo 2D SAXS SPring 8 ND Reference data drt001 tif
+Data homo 2D SAXS SPring 8 ND Reference data GC001 dat
+Data homo 2D SAXS SPring 8 ND Reference data GC001 tif
+Data homo 2D SAXS SPring 8 SPring 8 2D SAXSサンプルネーム対応表 xlsx
+Data homo 2D SAXS SPring 8 SPring 8 報告
+Data homo 2D SAXS SPring 8 SPring 8 報告 SAXS測定代行実施報告書 増田様20180515 docx
+Data homo 2D SAXS SPring 8 SPring 8 報告 測定リスト 増田様 20180514 xlsx
+Data homo 2D SAXS SPring 8 SPring 8 報告 測定代行用同梱ファイル
+Data homo 2D SAXS SPring 8 SPring 8 報告 測定代行用同梱ファイル BL19B2 SAXS測定概要 20151221 pdf
+Data homo 2D SAXS SPring 8 SPring 8 報告 測定代行用同梱ファイル Glassy Carbon L average dat
+Data homo 2D SAXS SPring 8 SPring 8 報告 測定代行用同梱ファイル Plot Radially ver2 20 zip
+Data homo 2D SAXS SPring 8 SPring 8 報告 測定代行用同梱ファイル SAXS1次元化手順 20141026 pdf
+Data homo 2D SAXS SPring 8 SPring 8 報告 測定代行用同梱ファイル 散乱プロファイル1次元データ絶対強度化手順メモ docx
+Data homo 2D SAXS SPring 8 TD
+Data homo 2D SAXS SPring 8 TD 10 TD dat
+Data homo 2D SAXS SPring 8 TD 10 TD tif
+Data homo 2D SAXS SPring 8 TD 11 TD dat
+Data homo 2D SAXS SPring 8 TD 11 TD tif
+Data homo 2D SAXS SPring 8 TD 12 TD dat
+Data homo 2D SAXS SPring 8 TD 12 TD tif
+Data homo 2D SAXS SPring 8 TD 13 TD dat
+Data homo 2D SAXS SPring 8 TD 13 TD tif
+Data homo 2D SAXS SPring 8 TD 14 TD dat
+Data homo 2D SAXS SPring 8 TD 14 TD tif
+Data homo 2D SAXS SPring 8 TD 15 TD dat
+Data homo 2D SAXS SPring 8 TD 15 TD tif
+Data homo 2D SAXS SPring 8 TD 16 TD dat
+Data homo 2D SAXS SPring 8 TD 16 TD tif
+Data homo 2D SAXS SPring 8 TD 17 TD dat
+Data homo 2D SAXS SPring 8 TD 17 TD tif
+Data homo 2D SAXS SPring 8 TD 18 TD dat
+Data homo 2D SAXS SPring 8 TD 18 TD tif
+Data homo 2D SAXS SPring 8 TD 19 TD dat
+Data homo 2D SAXS SPring 8 TD 19 TD tif
+Data homo 2D SAXS SPring 8 TD 1 TD dat
+Data homo 2D SAXS SPring 8 TD 1 TD tif
+Data homo 2D SAXS SPring 8 TD 20 TD dat
+Data homo 2D SAXS SPring 8 TD 20 TD tif
+Data homo 2D SAXS SPring 8 TD 21 TD dat
+Data homo 2D SAXS SPring 8 TD 21 TD tif
+Data homo 2D SAXS SPring 8 TD 22 TD dat
+Data homo 2D SAXS SPring 8 TD 22 TD tif
+Data homo 2D SAXS SPring 8 TD 23 TD dat
+Data homo 2D SAXS SPring 8 TD 23 TD tif
+Data homo 2D SAXS SPring 8 TD 24 TD dat
+Data homo 2D SAXS SPring 8 TD 24 TD tif
+Data homo 2D SAXS SPring 8 TD 25 TD dat
+Data homo 2D SAXS SPring 8 TD 25 TD tif
+Data homo 2D SAXS SPring 8 TD 26 TD dat
+Data homo 2D SAXS SPring 8 TD 26 TD tif
+Data homo 2D SAXS SPring 8 TD 27 TD dat
+Data homo 2D SAXS SPring 8 TD 27 TD tif
+Data homo 2D SAXS SPring 8 TD 28 TD dat
+Data homo 2D SAXS SPring 8 TD 28 TD tif
+Data homo 2D SAXS SPring 8 TD 29 TD dat
+Data homo 2D SAXS SPring 8 TD 29 TD tif
+Data homo 2D SAXS SPring 8 TD 2 TD dat
+Data homo 2D SAXS SPring 8 TD 2 TD tif
+Data homo 2D SAXS SPring 8 TD 30 TD dat
+Data homo 2D SAXS SPring 8 TD 30 TD tif
+Data homo 2D SAXS SPring 8 TD 31 TD dat
+Data homo 2D SAXS SPring 8 TD 31 TD tif
+Data homo 2D SAXS SPring 8 TD 32 TD dat
+Data homo 2D SAXS SPring 8 TD 32 TD tif
+Data homo 2D SAXS SPring 8 TD 33 TD dat
+Data homo 2D SAXS SPring 8 TD 33 TD tif
+Data homo 2D SAXS SPring 8 TD 34 TD dat
+Data homo 2D SAXS SPring 8 TD 34 TD tif
+Data homo 2D SAXS SPring 8 TD 35 TD dat
+Data homo 2D SAXS SPring 8 TD 35 TD tif
+Data homo 2D SAXS SPring 8 TD 36 TD dat
+Data homo 2D SAXS SPring 8 TD 36 TD tif
+Data homo 2D SAXS SPring 8 TD 37 TD dat
+Data homo 2D SAXS SPring 8 TD 37 TD tif
+Data homo 2D SAXS SPring 8 TD 38 TD dat
+Data homo 2D SAXS SPring 8 TD 38 TD tif
+Data homo 2D SAXS SPring 8 TD 39 TD dat
+Data homo 2D SAXS SPring 8 TD 39 TD tif
+Data homo 2D SAXS SPring 8 TD 3 TD dat
+Data homo 2D SAXS SPring 8 TD 3 TD tif
+Data homo 2D SAXS SPring 8 TD 40 TD dat
+Data homo 2D SAXS SPring 8 TD 40 TD tif
+Data homo 2D SAXS SPring 8 TD 41 TD dat
+Data homo 2D SAXS SPring 8 TD 41 TD tif
+Data homo 2D SAXS SPring 8 TD 42 TD dat
+Data homo 2D SAXS SPring 8 TD 42 TD tif
+Data homo 2D SAXS SPring 8 TD 43 TD dat
+Data homo 2D SAXS SPring 8 TD 43 TD tif
+Data homo 2D SAXS SPring 8 TD 44 TD dat
+Data homo 2D SAXS SPring 8 TD 44 TD tif
+Data homo 2D SAXS SPring 8 TD 45 TD dat
+Data homo 2D SAXS SPring 8 TD 45 TD tif
+Data homo 2D SAXS SPring 8 TD 46 TD dat
+Data homo 2D SAXS SPring 8 TD 46 TD tif
+Data homo 2D SAXS SPring 8 TD 47 TD dat
+Data homo 2D SAXS SPring 8 TD 47 TD tif
+Data homo 2D SAXS SPring 8 TD 48 TD dat
+Data homo 2D SAXS SPring 8 TD 48 TD tif
+Data homo 2D SAXS SPring 8 TD 49 TD dat
+Data homo 2D SAXS SPring 8 TD 49 TD tif
+Data homo 2D SAXS SPring 8 TD 4 TD dat
+Data homo 2D SAXS SPring 8 TD 4 TD tif
+Data homo 2D SAXS SPring 8 TD 50 TD dat
+Data homo 2D SAXS SPring 8 TD 50 TD tif
+Data homo 2D SAXS SPring 8 TD 51 TD dat
+Data homo 2D SAXS SPring 8 TD 51 TD tif
+Data homo 2D SAXS SPring 8 TD 52 TD dat
+Data homo 2D SAXS SPring 8 TD 52 TD tif
+Data homo 2D SAXS SPring 8 TD 53 TD dat
+Data homo 2D SAXS SPring 8 TD 53 TD tif
+Data homo 2D SAXS SPring 8 TD 54 TD dat
+Data homo 2D SAXS SPring 8 TD 54 TD tif
+Data homo 2D SAXS SPring 8 TD 55 TD dat
+Data homo 2D SAXS SPring 8 TD 55 TD tif
+Data homo 2D SAXS SPring 8 TD 56 TD dat
+Data homo 2D SAXS SPring 8 TD 56 TD tif
+Data homo 2D SAXS SPring 8 TD 57 TD dat
+Data homo 2D SAXS SPring 8 TD 57 TD tif
+Data homo 2D SAXS SPring 8 TD 58 TD dat
+Data homo 2D SAXS SPring 8 TD 58 TD tif
+Data homo 2D SAXS SPring 8 TD 59 TD dat
+Data homo 2D SAXS SPring 8 TD 59 TD tif
+Data homo 2D SAXS SPring 8 TD 5 TD dat
+Data homo 2D SAXS SPring 8 TD 5 TD tif
+Data homo 2D SAXS SPring 8 TD 60 TD dat
+Data homo 2D SAXS SPring 8 TD 60 TD tif
+Data homo 2D SAXS SPring 8 TD 61 TD dat
+Data homo 2D SAXS SPring 8 TD 61 TD tif
+Data homo 2D SAXS SPring 8 TD 62 TD dat
+Data homo 2D SAXS SPring 8 TD 62 TD tif
+Data homo 2D SAXS SPring 8 TD 63 TD dat
+Data homo 2D SAXS SPring 8 TD 63 TD tif
+Data homo 2D SAXS SPring 8 TD 64 TD dat
+Data homo 2D SAXS SPring 8 TD 64 TD tif
+Data homo 2D SAXS SPring 8 TD 65 TD dat
+Data homo 2D SAXS SPring 8 TD 65 TD tif
+Data homo 2D SAXS SPring 8 TD 66 TD dat
+Data homo 2D SAXS SPring 8 TD 66 TD tif
+Data homo 2D SAXS SPring 8 TD 67 TD dat
+Data homo 2D SAXS SPring 8 TD 67 TD tif
+Data homo 2D SAXS SPring 8 TD 68 TD dat
+Data homo 2D SAXS SPring 8 TD 68 TD tif
+Data homo 2D SAXS SPring 8 TD 69 TD dat
+Data homo 2D SAXS SPring 8 TD 69 TD tif
+Data homo 2D SAXS SPring 8 TD 6 TD dat
+Data homo 2D SAXS SPring 8 TD 6 TD tif
+Data homo 2D SAXS SPring 8 TD 70 TD dat
+Data homo 2D SAXS SPring 8 TD 70 TD tif
+Data homo 2D SAXS SPring 8 TD 71 TD dat
+Data homo 2D SAXS SPring 8 TD 71 TD tif
+Data homo 2D SAXS SPring 8 TD 72 TD dat
+Data homo 2D SAXS SPring 8 TD 72 TD tif
+Data homo 2D SAXS SPring 8 TD 73 TD dat
+Data homo 2D SAXS SPring 8 TD 73 TD tif
+Data homo 2D SAXS SPring 8 TD 74 TD dat
+Data homo 2D SAXS SPring 8 TD 74 TD tif
+Data homo 2D SAXS SPring 8 TD 75 TD dat
+Data homo 2D SAXS SPring 8 TD 75 TD tif
+Data homo 2D SAXS SPring 8 TD 76 TD dat
+Data homo 2D SAXS SPring 8 TD 76 TD tif
+Data homo 2D SAXS SPring 8 TD 77 TD dat
+Data homo 2D SAXS SPring 8 TD 77 TD tif
+Data homo 2D SAXS SPring 8 TD 78 TD dat
+Data homo 2D SAXS SPring 8 TD 78 TD tif
+Data homo 2D SAXS SPring 8 TD 79 TD dat
+Data homo 2D SAXS SPring 8 TD 79 TD tif
+Data homo 2D SAXS SPring 8 TD 7 TD dat
+Data homo 2D SAXS SPring 8 TD 7 TD tif
+Data homo 2D SAXS SPring 8 TD 80 TD dat
+Data homo 2D SAXS SPring 8 TD 80 TD tif
+Data homo 2D SAXS SPring 8 TD 81 TD dat
+Data homo 2D SAXS SPring 8 TD 81 TD tif
+Data homo 2D SAXS SPring 8 TD 82 TD dat
+Data homo 2D SAXS SPring 8 TD 82 TD tif
+Data homo 2D SAXS SPring 8 TD 83 TD dat
+Data homo 2D SAXS SPring 8 TD 83 TD tif
+Data homo 2D SAXS SPring 8 TD 84 TD dat
+Data homo 2D SAXS SPring 8 TD 84 TD tif
+Data homo 2D SAXS SPring 8 TD 85 TD dat
+Data homo 2D SAXS SPring 8 TD 85 TD tif
+Data homo 2D SAXS SPring 8 TD 8 TD dat
+Data homo 2D SAXS SPring 8 TD 8 TD tif
+Data homo 2D SAXS SPring 8 TD 9 TD dat
+Data homo 2D SAXS SPring 8 TD 9 TD tif
+Data homo 2D SAXS SPring 8 TD Reference data
+Data homo 2D SAXS SPring 8 TD Reference data behen001 dat
+Data homo 2D SAXS SPring 8 TD Reference data behen001 tif
+Data homo 2D SAXS SPring 8 TD Reference data BG001 dat
+Data homo 2D SAXS SPring 8 TD Reference data BG001 tif
+Data homo 2D SAXS SPring 8 TD Reference data drt001 tif
+Data homo 2D SAXS SPring 8 TD Reference data GC001 dat
+Data homo 2D SAXS SPring 8 TD Reference data GC001 tif
+Data homo 2D WAXD NIMS
+Data homo 2D WAXD NIMS 5min img
+Data homo 2D WAXD NIMS 5min img ND
+Data homo 2D WAXD NIMS 5min img ND 20181108 0 33 EA9 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181108 0 33 EA9 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181108 0 33 EA9 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181108 0 34 EA9 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181108 0 34 EA9 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181108 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 0 33 E100GPL 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 0 33 E100GPL 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 0 33 E100GPL 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 0 33 E100GPL 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 0 33 E100GPL 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 0 33 FY6 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 0 33 FY6 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 0 33 FY6 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 0 33 FY6 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 0 33 FY6 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 0 32 F300SP 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 0 32 F300SP 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 0 32 F300SP 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 0 32 F300SP 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 0 33 F300SP 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 33 F 704NP 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 33 F 704NP 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 33 F 704NP 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 33 F 704NP 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 33 F 704NP 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 34 FY4 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 34 FY4 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 34 FY4 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 34 FY4 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 35 FY4 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 32 J 105G 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 32 PM600A 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 32 PM600A 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 33 J 105G 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 33 J 105G 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 33 PM600A 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 33 PM600A 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 33 PM600A 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 32 NIMS a1 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 33 J 105G 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 33 J 105G 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 33 MA3 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 33 NIMS a1 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 MA3 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 MA3 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 MA3 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 MA3 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 NIMS a1 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 NIMS a1 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 NIMS a1 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 0 32 PM801A 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 0 33 PM801A 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 0 33 PM801A 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 0 34 PM801A 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 0 34 PM801A 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 33 MA1B 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 33 MA1B 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 33 MA1B 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 33 PM900A 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 33 PM900A 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 34 MA1B 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 34 MA1B 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 34 PM900A 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181204 0 34 PM900A 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181204 0 36 NIMS a3 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181204 0 36 NIMS a3 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181204 0 36 PM900A 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181204 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181205 0 33 NIMS a3 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181205 0 33 NIMS a3 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181205 0 33 NIMS a3 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181205 0 33 PHA03A 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181205 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181206 0 32 PHA03A 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181206 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 32 PHA03A 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 32 PHA03A 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 32 PHA03A 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 33 NIMS a2 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 34 NIMS a2 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 34 NIMS a2 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 35 NIMS a2 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 35 NIMS a2 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 0 33 J 700GP 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 0 33 J 700GP 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 0 33 J 700GP 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 0 33 J 700GP 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 0 33 J 700GP 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 Blank 5min img
+Data homo 2D WAXD NIMS 5min img readme txt
+Data homo 2D WAXD NIMS 5min img TD
+Data homo 2D WAXD NIMS 5min img TD 20190918 0 35 EA9 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190918 0 36 EA9 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190918 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 0 35 EA9 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 0 35 EA9 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 0 35 EA9 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 0 36 E100GPL 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 0 44 E100GPL 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 35 FY6 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 36 E100GPL 45 1 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 36 E100GPL 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 36 E100GPL 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 36 FY6 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 40 E100GPL 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 33 F 300SP 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 33 F 300SP 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 33 FY6 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 33 FY6 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 34 F 300SP 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 34 F 300SP 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 34 FY6 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 37 F 300SP 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 34 F704NP 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 35 FY4 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 35 FY4 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 36 F704NP 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 36 FY4 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 36 FY4 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 36 FY4 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 37 F704NP 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 0 35 F704NP 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 0 35 PM600A 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 0 36 F704NP 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 0 36 PM600A 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 0 36 PM600A 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 0 35 J700GP 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 0 35 J700GP 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 0 35 PM600A 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 0 36 J700GP 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 0 36 PM600A 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 35 J 105G 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 35 J 105G 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 35 NIMS a1 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 36 J700GP 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 37 J 105G 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 37 J 105G 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 38 J 105G 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 38 J700GP 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 35 MA3 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 35 NIMS a1 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 35 NIMS a1 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 36 MA3 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 38 NIMS a1 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 38 NIMS a1 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191028 0 36 MA3 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191028 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 0 35 MA3 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 0 35 PM801A 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 0 35 PM801A 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 0 36 MA3 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 0 36 PM801A 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 36 PM801A 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 37 PM801A 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 38 MA1B 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 38 MA1B 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 39 MA1B 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 41 MA1B 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 35 PM900A 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 35 PM900A 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 35 PM900A 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 35 PM900A 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 36 MA1B 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 36 NIMS a3 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 37 PM900A 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 42 NIMS a3 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191106 0 35 NIMS a3 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191106 0 36 NIMS a3 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191106 0 37 PHA03A 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191106 0 38 NIMS a3 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191106 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 35 PHA03A 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 NIMS a2 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 NIMS a2 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 NIMS a2 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 PHA03A 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 PHA03A 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 PHA03A 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191113 0 38 NIMS a2 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191113 0 39 NIMS a2 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191113 Blank 5min img
+Data homo 2D WAXD NIMS 60min img
+Data homo 2D WAXD NIMS 60min img MD
+Data homo 2D WAXD NIMS 60min img MD 20180516 E100GPL 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180516 EA9 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180516 EA9 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180516 EA9 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180516 EA9 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180517 E100GPL 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180517 E100GPL 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180517 E100GPL 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180517 E100GPL 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180517 FY6 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180518 EA9 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180518 FY6 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180518 FY6 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180521 F300SP 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180521 F300SP 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180521 FY6 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180521 FY6 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180522 F300SP 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180522 F300SP 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180522 F300SP 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180522 FY4 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180523 FY4 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180523 FY4 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180523 FY4 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 F704NP 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 F704NP 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 F704NP 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 F704NP 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 F704NP 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 FY4 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180525 PM600A 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180525 PM600A 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180525 PM600A 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180525 PM600A 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180528 J700GP 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180528 J700GP 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180528 J700GP 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180528 PM600A 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180529 J105G 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180529 J105G 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180529 J700GP 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180529 J700GP 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180530 J105G 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180530 J105G 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180530 J105G 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180530 NIMS a1 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180530 NIMS a1 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 MA3 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 MA3 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 MA3 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 NIMS a1 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 NIMS a1 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 NIMS a1 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 MA3 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 MA3 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 PM801A 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 PM801A 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 PM801A 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 PM801A 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180604 MA1B 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180604 MA1B 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180604 MA1B 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180604 PM801A 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180606 MA1B 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180606 MA1B 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180607 PM900A 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180607 PM900A 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180607 PM900A 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180608 NIMS a3 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180608 NIMS a3 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180608 NIMS a3 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180608 PM900A 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180608 PM900A 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180611 NIMS a3 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180611 NIMS a3 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180611 PHA03A 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180611 PHA03A 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180611 PHA03A 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 NIMS a2 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 NIMS a2 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 NIMS a2 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 NIMS a2 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 NIMS a2 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 PHA03A 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 PHA03A 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img ND
+Data homo 2D WAXD NIMS 60min img ND 20180309 EA9 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180309 EA9 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180312 E100GPL 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180312 EA9 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180312 EA9 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180313 E100GPL 45 ND 60min 2 img
+Data homo 2D WAXD NIMS 60min img ND 20180313 E100GPL 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180313 E100GPL 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180314 E100GPL 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180314 EA9 30 ND 60min 3 img
+Data homo 2D WAXD NIMS 60min img ND 20180314 FY6 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180314 FY6 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180314 FY6 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180314 FY6 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180316 F300SP 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180316 F300SP 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180316 F300SP 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180316 F300SP 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180316 FY6 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180319 F300SP 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180319 FY4 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180319 FY4 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180319 FY4 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 F704NP 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 F704NP 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 F704NP 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 F704NP 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 FY4 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 FY4 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180322 F704NP 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180322 PM600A 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180322 PM600A 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180322 PM600A 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180322 PM600A 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180323 J700GP 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180323 J700GP 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180323 PM600A 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180326 J105G 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180326 J700GP 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180326 J700GP 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180326 J700GP 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180327 J105G 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180327 J105G 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180327 J105G 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180328 J105G 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180328 NIMS a1 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180329 NIMS a1 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180329 NIMS a1 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180402 MA3 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180402 MA3 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180402 NIMS a1 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180402 NIMS a1 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180403 MA3 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180403 MA3 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180403 MA3 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180403 PM801A 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180403 PM801A 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180404 MA1B 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180404 MA1B 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180404 PM801A 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180404 PM801A 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180404 PM801A 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180405 MA1B 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180405 MA1B 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180405 MA1B 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180405 PM900A 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180405 PM900A 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180409 NIMS a3 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180409 PM900A 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180409 PM900A 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180409 PM900A 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180410 NIMS a3 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180410 NIMS a3 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180410 NIMS a3 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180410 NIMS a3 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180410 PHA03A 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180411 PHA03A 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180411 PHA03A 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180411 PHA03A 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180411 PHA03A 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180412 NIMS a2 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180412 NIMS a2 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180412 NIMS a2 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180412 NIMS a2 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180412 NIMS a2 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img TD
+Data homo 2D WAXD NIMS 60min img TD 20180412 EA9 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180413 EA9 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180413 EA9 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180413 EA9 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180416 E100GPL 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180416 E100GPL 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180416 E100GPL 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180416 E100GPL 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180416 E100GPL 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180417 EA9 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180417 FY6 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180417 FY6 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180417 FY6 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180417 FY6 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 F 300SP 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 F 300SP 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 F 300SP 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 F 300SP 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 F 300SP 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 FY6 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180419 FY4 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180419 FY4 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180419 FY4 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180419 FY4 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180419 FY4 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180420 F704NP 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180420 F704NP 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180420 F704NP 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180420 F704NP 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180420 F704NP 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180423 PM600A 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180423 PM600A 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180423 PM600A 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180423 PM600A 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180424 J 700GP 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180424 J 700GP 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180424 J 700GP 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180424 J 700GP 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180424 PM600A 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180426 J 105G 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180426 J 105G 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180426 J 700GP 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180427 J 105G 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180427 J 105G 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180427 J 105G 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180427 NIMS a1 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180427 NIMS a1 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180501 MA3 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180501 MA3 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180501 NIMS a1 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180501 NIMS a1 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180501 NIMS a1 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180502 MA3 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180502 MA3 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180502 MA3 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180502 PM801A 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180507 PM801A 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180507 PM801A 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180508 MA1B 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180508 MA1B 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180508 MA1B 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180508 PM801A 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180509 MA1B 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180509 MA1B 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180509 PM900A 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180510 NIMS a3 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180510 PM900A 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180510 PM900A 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180510 PM900A 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180510 PM900A 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180511 NIMS a3 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180511 NIMS a3 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180511 NIMS a3 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180511 NIMS a3 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 NIMS a2 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 PHA03A 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 PHA03A 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 PHA03A 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 PHA03A 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 PHA03A 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180515 NIMS a2 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180515 NIMS a2 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180515 NIMS a2 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180515 NIMS a2 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180515 PM801A 70 TD 60min 2 img
+Data homo 2D WAXD NIMS 60min img TD 20180522 F300SP 70 TD 60min 2 img
+Data homo DSC NIMS
+Data homo DSC NIMS Dumbbell
+Data homo DSC NIMS Dumbbell Check experiment txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190329 EA9 30c N1 core 3 txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190329 EA9 30c N2 core 2 txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190401 EA9 30c N3 core 3 txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190401 EA9 30c N4 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190401 EA9 30c N5 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190402 EA9 30c N10 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190402 EA9 30c N6 core 2 txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190402 EA9 30c N7 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190402 EA9 30c N8 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190402 EA9 30c N9 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N10 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N1 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N2 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N3 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N4 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N5 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N6 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N7 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N8 core txt
+Data homo DSC NIMS Dumbbell Check experiment txt 190405 MA3 70c N9 core txt
+Data homo DSC NIMS Dumbbell core txt
+Data homo DSC NIMS Dumbbell core txt 171016 MA1B 30c core txt
+Data homo DSC NIMS Dumbbell core txt 171016 MA1B 45c core txt
+Data homo DSC NIMS Dumbbell core txt 171016 MA1B 60c core txt
+Data homo DSC NIMS Dumbbell core txt 171016 MA1B 70c core txt
+Data homo DSC NIMS Dumbbell core txt 171016 MA1B 75c core txt
+Data homo DSC NIMS Dumbbell core txt 171023 MA3 30c core 01 txt
+Data homo DSC NIMS Dumbbell core txt 171023 MA3 45c core 02 txt
+Data homo DSC NIMS Dumbbell core txt 171023 MA3 60c core 03 txt
+Data homo DSC NIMS Dumbbell core txt 171023 MA3 70c core 04 txt
+Data homo DSC NIMS Dumbbell core txt 171023 MA3 75c core 05 txt
+Data homo DSC NIMS Dumbbell core txt 171024 J700GP 30c core 11 txt
+Data homo DSC NIMS Dumbbell core txt 171024 J700GP 45c core 12 txt
+Data homo DSC NIMS Dumbbell core txt 171024 J700GP 60c core 13 txt
+Data homo DSC NIMS Dumbbell core txt 171024 J700GP 70c core 14 txt
+Data homo DSC NIMS Dumbbell core txt 171024 J700GP 75c core 15 txt
+Data homo DSC NIMS Dumbbell core txt 171025 F704NP 30c core 16 2 txt
+Data homo DSC NIMS Dumbbell core txt 171025 F704NP 45c core 17 2 txt
+Data homo DSC NIMS Dumbbell core txt 171025 F704NP 70c core 19 2 txt
+Data homo DSC NIMS Dumbbell core txt 171025 F704NP 75c core 20 2 txt
+Data homo DSC NIMS Dumbbell core txt 171027 E100GPL 30c core 26 txt
+Data homo DSC NIMS Dumbbell core txt 171027 E100GPL 70c core 29 txt
+Data homo DSC NIMS Dumbbell core txt 171027 F300SP 30c core 21 txt
+Data homo DSC NIMS Dumbbell core txt 171027 F300SP 60c core 23 txt
+Data homo DSC NIMS Dumbbell core txt 171027 F300SP 70c core 24 txt
+Data homo DSC NIMS Dumbbell core txt 171027 F300SP 75c core 25 txt
+Data homo DSC NIMS Dumbbell core txt 171030 E100GPL 75c core 30 2 txt
+Data homo DSC NIMS Dumbbell core txt 171101 PM600A 30c core 31 txt
+Data homo DSC NIMS Dumbbell core txt 171101 PM600A 45c core 32 txt
+Data homo DSC NIMS Dumbbell core txt 171101 PM600A 60c core 33 txt
+Data homo DSC NIMS Dumbbell core txt 171102 E100GPL 45c core 27 2 txt
+Data homo DSC NIMS Dumbbell core txt 171102 E100GPL 60c core 28 2 txt
+Data homo DSC NIMS Dumbbell core txt 171102 F300SP 45c core 22 2 txt
+Data homo DSC NIMS Dumbbell core txt 171102 F704NP 60c core 18 2 txt
+Data homo DSC NIMS Dumbbell core txt 171107 PM600A 70c core 34 txt
+Data homo DSC NIMS Dumbbell core txt 171107 PM600A 75c core 35 txt
+Data homo DSC NIMS Dumbbell core txt 171109 PM900A 30c core 41 txt
+Data homo DSC NIMS Dumbbell core txt 171109 PM900A 45c core 42 txt
+Data homo DSC NIMS Dumbbell core txt 171109 PM900A 60c core 43 txt
+Data homo DSC NIMS Dumbbell core txt 171109 PM900A 70c core 44 txt
+Data homo DSC NIMS Dumbbell core txt 171109 PM900A 75c core 45 txt
+Data homo DSC NIMS Dumbbell core txt 171113 PHA03A 30c core 46 txt
+Data homo DSC NIMS Dumbbell core txt 171113 PHA03A 45c core 47 txt
+Data homo DSC NIMS Dumbbell core txt 171113 PHA03A 60c core 48 txt
+Data homo DSC NIMS Dumbbell core txt 171113 PHA03A 70c core 49 txt
+Data homo DSC NIMS Dumbbell core txt 171113 PHA03A 75c core 50 txt
+Data homo DSC NIMS Dumbbell core txt 171115 J105G 30c core 51 txt
+Data homo DSC NIMS Dumbbell core txt 171115 J105G 45c core 52 txt
+Data homo DSC NIMS Dumbbell core txt 171115 J105G 60c core 53 txt
+Data homo DSC NIMS Dumbbell core txt 171115 J105G 70c core 54 txt
+Data homo DSC NIMS Dumbbell core txt 171115 J105G 75c core 55 txt
+Data homo DSC NIMS Dumbbell core txt 171121 PM801A 30c core 36 txt
+Data homo DSC NIMS Dumbbell core txt 171121 PM801A 45c core 37 txt
+Data homo DSC NIMS Dumbbell core txt 171121 PM801A 60c core 38 txt
+Data homo DSC NIMS Dumbbell core txt 171121 PM801A 70c core 39 txt
+Data homo DSC NIMS Dumbbell core txt 171121 PM801A 75c core 40 txt
+Data homo DSC NIMS Dumbbell core txt 171122 EA9 30c core 56 2 txt
+Data homo DSC NIMS Dumbbell core txt 171122 EA9 45c core 57 txt
+Data homo DSC NIMS Dumbbell core txt 171122 EA9 60c core 58 2 txt
+Data homo DSC NIMS Dumbbell core txt 171122 EA9 70c core 59 txt
+Data homo DSC NIMS Dumbbell core txt 171124 EA9 75c core 60 2 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY4 30c core 66 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY4 45c core 67 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY4 60c core 68 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY4 70c core 69 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY4 75c core 70 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY6 30c core 61 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY6 45c core 62 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY6 60c core 63 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY6 70c core 64 txt
+Data homo DSC NIMS Dumbbell core txt 171130 FY6 75c core 65 txt
+Data homo DSC NIMS Dumbbell core txt 171205 NIMS a1 30c core 71 txt
+Data homo DSC NIMS Dumbbell core txt 171205 NIMS a1 45c core 72 txt
+Data homo DSC NIMS Dumbbell core txt 171205 NIMS a1 60c core 73 txt
+Data homo DSC NIMS Dumbbell core txt 171205 NIMS a1 70c core 74 txt
+Data homo DSC NIMS Dumbbell core txt 171206 NIMS a1 75c core 75 2 txt
+Data homo DSC NIMS Dumbbell core txt 171207 NIMS a3 30c core 76 txt
+Data homo DSC NIMS Dumbbell core txt 171207 NIMS a3 45c core 77 txt
+Data homo DSC NIMS Dumbbell core txt 171207 NIMS a3 60c core 78 txt
+Data homo DSC NIMS Dumbbell core txt 171207 NIMS a3 70c core 79 txt
+Data homo DSC NIMS Dumbbell core txt 171207 NIMS a3 75c core 80 txt
+Data homo DSC NIMS Dumbbell core txt 171213 NIMS a2 30c core 81 txt
+Data homo DSC NIMS Dumbbell core txt 171213 NIMS a2 45c core 82 txt
+Data homo DSC NIMS Dumbbell core txt 171213 NIMS a2 60c core 83 txt
+Data homo DSC NIMS Dumbbell core txt 171213 NIMS a2 70c core 84 txt
+Data homo DSC NIMS Dumbbell core txt 171213 NIMS a2 75c core 85 txt
+Data homo DSC NIMS Dumbbell skin txt
+Data homo DSC NIMS Dumbbell skin txt 171106 MA3 30c skin 01 txt
+Data homo DSC NIMS Dumbbell skin txt 171114 MA1B 30c skin 06 txt
+Data homo DSC NIMS Dumbbell skin txt 171114 MA1B 45c skin 07 txt
+Data homo DSC NIMS Dumbbell skin txt 171114 MA1B 60c skin 08 txt
+Data homo DSC NIMS Dumbbell skin txt 171114 MA1B 70c skin 09 txt
+Data homo DSC NIMS Dumbbell skin txt 171114 MA1B 75c skin 10 txt
+Data homo DSC NIMS Dumbbell skin txt 171120 MA3 30c skin 01 txt
+Data homo DSC NIMS Dumbbell skin txt 171120 MA3 45c skin 02 txt
+Data homo DSC NIMS Dumbbell skin txt 171120 MA3 60c skin 03 txt
+Data homo DSC NIMS Dumbbell skin txt 171120 MA3 70c skin 04 txt
+Data homo DSC NIMS Dumbbell skin txt 171120 MA3 75c skin 05 txt
+Data homo DSC NIMS Dumbbell skin txt 171204 J700GP 30c skin 11 txt
+Data homo DSC NIMS Dumbbell skin txt 171204 J700GP 45c skin 12 txt
+Data homo DSC NIMS Dumbbell skin txt 171204 J700GP 60c skin 13 txt
+Data homo DSC NIMS Dumbbell skin txt 171204 J700GP 70c skin 14 txt
+Data homo DSC NIMS Dumbbell skin txt 171204 J700GP 75c skin 15 txt
+Data homo DSC NIMS Dumbbell skin txt 171211 F300SP 45c skin 22 txt
+Data homo DSC NIMS Dumbbell skin txt 171211 F300SP 75c skin 25 txt
+Data homo DSC NIMS Dumbbell skin txt 171212 F300SP 30c skin 21 2 txt
+Data homo DSC NIMS Dumbbell skin txt 171212 F300SP 60c skin 23 2 txt
+Data homo DSC NIMS Dumbbell skin txt 171212 F300SP 70c skin 24 2 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 E100GPL 45c skin 27 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 E100GPL 70c skin 29 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 E100GPL 75c skin 30 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 J105G 30c skin 51 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 J105G 45c skin 52 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 J105G 60c skin 53 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 J105G 70c skin 54 txt
+Data homo DSC NIMS Dumbbell skin txt 171214 J105G 75c skin 55 txt
+Data homo DSC NIMS Dumbbell skin txt 171218 E100GPL 30c skin 26 txt
+Data homo DSC NIMS Dumbbell skin txt 171218 E100GPL 60c skin 28 txt
+Data homo DSC NIMS Dumbbell skin txt 171219 EA9 45c skin 57 txt
+Data homo DSC NIMS Dumbbell skin txt 171219 EA9 60c skin 58 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 EA9 30c skin 56 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 EA9 70c skin 59 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM600A 30c skin 31 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM600A 45c skin 32 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM600A 60c skin 33 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM600A 75c skin 35 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM900A 30c skin 41 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM900A 45c skin 42 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM900A 60c skin 43 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM900A 70c skin 44 txt
+Data homo DSC NIMS Dumbbell skin txt 171220 PM900A 75c skin 45 txt
+Data homo DSC NIMS Dumbbell skin txt 171221 EA9 75c skin 60 3 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY4 30c skin 66 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY4 45c skin 67 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY4 60c skin 68 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY4 70c skin 69 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY6 30c skin 61 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY6 60c skin 63 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY6 70c skin 64 txt
+Data homo DSC NIMS Dumbbell skin txt 171226 FY6 75c skin 65 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 FY6 45c skin 62 2 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 NIMS a1 30c skin 71 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 NIMS a1 45c skin 72 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 NIMS a1 60c skin 73 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 NIMS a1 70c skin 74 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 NIMS a1 75c skin 75 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PHA03A 30c skin 46 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PHA03A 45c skin 47 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PHA03A 60c skin 48 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PHA03A 70c skin 49 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PHA03A 75c skin 50 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PM801A 30c skin 36 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PM801A 45c skin 37 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PM801A 60c skin 38 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PM801A 70c skin 39 txt
+Data homo DSC NIMS Dumbbell skin txt 171227 PM801A 75c skin 40 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 F704NP 30c skin 16 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 F704NP 45c skin 17 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 F704NP 60c skin 18 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 F704NP 70c skin 19 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 F704NP 75c skin 20 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 NIMS a2 30c skin 81 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 NIMS a2 45c skin 82 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 NIMS a2 60c skin 83 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 NIMS a2 70c skin 84 txt
+Data homo DSC NIMS Dumbbell skin txt 180104 NIMS a2 75c skin 85 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 FY4 75c skin 70 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 NIMS a3 30c skin 76 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 NIMS a3 45c skin 77 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 NIMS a3 60c skin 78 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 NIMS a3 70c skin 79 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 NIMS a3 75c skin 80 txt
+Data homo DSC NIMS Dumbbell skin txt 180105 PM600A 70c skin 34 txt
+Data homo DSC NIMS Original pellet
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171018 MA1B original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171018 MA3 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 E100GPL original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 EA09 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 F300SP original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 F704NP original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 J105G original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171019 J700GP original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 FY4 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 FY6 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 PHA03A original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 PM600A original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 PM801A original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171023 PM900A original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171102 NIMS 01 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171102 NIMS 02 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 50Kmin txt 171102 NIMS 03 original a30 c50Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171018 J700GP original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171018 MA1B original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171018 MA3 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171019 E100GPL original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171019 EA09 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171019 F300SP original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171019 F704NP original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171019 J105G original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 FY4 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 FY6 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 PHA03A original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 PM600A original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 PM801A original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171023 PM900A original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171102 NIMS 01 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171102 NIMS 02 original a30 c5Kmin txt
+Data homo DSC NIMS Original pellet cooling rate 5Kmin txt 171102 NIMS 03 original a30 c5Kmin txt
+Data homo PVT djk
+Data homo PVT djk Sample name list PVT xlsx
+Data homo PVT djk Y14 0721 PP01 データ報告 xlsx
+Data homo PVT djk Y14 0721 PP02 データ報告 xlsx
+Data homo PVT djk Y14 0721 PP12 データ報告 xlsx
+Data homo PVT djk Y14 0721 PP15 データ報告 xlsx
+Data homo PVT djk Y14 0722 PP16 データ報告 xlsx
+Data homo PVT djk Y14 0722 PP18 データ報告 xlsx
+Data homo PVT djk Y14 0722 PP23 データ報告 xlsx
+Data homo PVT djk Y14 0722 PP24 データ報告 xlsx
+Data homo PVT djk Y14 0723 PP25 データ報告 xlsx
+Data homo PVT djk Y14 0723 PP26 データ報告 xlsx
+Data homo PVT djk Y14 0723 PP27 データ報告 xlsx
+Data homo PVT djk Y14 0723 PP28 データ報告 xlsx
+Data homo PVT djk Y14 0724 PP29 データ報告 xlsx
+Data homo PVT djk Y14 0724 PP30 データ報告 xlsx
+Data homo PVT djk Y14 0724 PP31 データ報告 xlsx
+Data homo PVT djk Y14 0724 PP32 データ報告 xlsx
+Data homo PVT djk Y14 0729 PP33 データ報告 xlsx

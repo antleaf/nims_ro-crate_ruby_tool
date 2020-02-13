@@ -1,0 +1,466 @@
+Data homo 2D WAXD NIMS
+Data homo 2D WAXD NIMS 5min img
+Data homo 2D WAXD NIMS 5min img ND
+Data homo 2D WAXD NIMS 5min img ND 20181108 0 33 EA9 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181108 0 33 EA9 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181108 0 33 EA9 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181108 0 34 EA9 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181108 0 34 EA9 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181108 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 0 33 E100GPL 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 0 33 E100GPL 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 0 33 E100GPL 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 0 33 E100GPL 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 0 33 E100GPL 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181109 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 0 33 FY6 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 0 33 FY6 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 0 33 FY6 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 0 33 FY6 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 0 33 FY6 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181112 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 0 32 F300SP 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 0 32 F300SP 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 0 32 F300SP 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 0 32 F300SP 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 0 33 F300SP 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181113 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 33 F 704NP 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 33 F 704NP 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 33 F 704NP 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 33 F 704NP 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 33 F 704NP 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 34 FY4 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 34 FY4 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 34 FY4 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 34 FY4 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 0 35 FY4 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181122 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 32 J 105G 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 32 PM600A 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 32 PM600A 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 33 J 105G 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 33 J 105G 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 33 PM600A 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 33 PM600A 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 0 33 PM600A 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181126 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 32 NIMS a1 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 33 J 105G 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 33 J 105G 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 33 MA3 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 33 NIMS a1 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 MA3 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 MA3 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 MA3 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 MA3 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 NIMS a1 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 NIMS a1 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 0 34 NIMS a1 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181127 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 0 32 PM801A 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 0 33 PM801A 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 0 33 PM801A 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 0 34 PM801A 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 0 34 PM801A 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181129 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 33 MA1B 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 33 MA1B 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 33 MA1B 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 33 PM900A 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 33 PM900A 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 34 MA1B 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 34 MA1B 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 0 34 PM900A 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181203 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181204 0 34 PM900A 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181204 0 36 NIMS a3 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181204 0 36 NIMS a3 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181204 0 36 PM900A 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181204 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181205 0 33 NIMS a3 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181205 0 33 NIMS a3 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181205 0 33 NIMS a3 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181205 0 33 PHA03A 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181205 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181206 0 32 PHA03A 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181206 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 32 PHA03A 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 32 PHA03A 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 32 PHA03A 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 33 NIMS a2 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 34 NIMS a2 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 34 NIMS a2 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 35 NIMS a2 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 0 35 NIMS a2 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181207 Blank 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 0 33 J 700GP 30 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 0 33 J 700GP 45 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 0 33 J 700GP 60 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 0 33 J 700GP 70 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 0 33 J 700GP 75 ND 5min img
+Data homo 2D WAXD NIMS 5min img ND 20181212 Blank 5min img
+Data homo 2D WAXD NIMS 5min img readme txt
+Data homo 2D WAXD NIMS 5min img TD
+Data homo 2D WAXD NIMS 5min img TD 20190918 0 35 EA9 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190918 0 36 EA9 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190918 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 0 35 EA9 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 0 35 EA9 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 0 35 EA9 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 0 36 E100GPL 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 0 44 E100GPL 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190920 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 35 FY6 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 36 E100GPL 45 1 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 36 E100GPL 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 36 E100GPL 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 36 FY6 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 0 40 E100GPL 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190924 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 33 F 300SP 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 33 F 300SP 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 33 FY6 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 33 FY6 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 34 F 300SP 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 34 F 300SP 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 34 FY6 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 0 37 F 300SP 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20190930 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 34 F704NP 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 35 FY4 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 35 FY4 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 36 F704NP 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 36 FY4 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 36 FY4 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 36 FY4 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 0 37 F704NP 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191008 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 0 35 F704NP 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 0 35 PM600A 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 0 36 F704NP 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 0 36 PM600A 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 0 36 PM600A 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191009 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 0 35 J700GP 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 0 35 J700GP 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 0 35 PM600A 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 0 36 J700GP 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 0 36 PM600A 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191015 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 35 J 105G 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 35 J 105G 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 35 NIMS a1 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 36 J700GP 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 37 J 105G 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 37 J 105G 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 38 J 105G 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 0 38 J700GP 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191017 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 35 MA3 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 35 NIMS a1 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 35 NIMS a1 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 36 MA3 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 38 NIMS a1 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 0 38 NIMS a1 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191018 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191028 0 36 MA3 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191028 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 0 35 MA3 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 0 35 PM801A 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 0 35 PM801A 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 0 36 MA3 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 0 36 PM801A 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191029 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 36 PM801A 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 37 PM801A 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 38 MA1B 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 38 MA1B 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 39 MA1B 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 0 41 MA1B 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191030 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 35 PM900A 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 35 PM900A 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 35 PM900A 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 35 PM900A 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 36 MA1B 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 36 NIMS a3 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 37 PM900A 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 0 42 NIMS a3 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191105 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191106 0 35 NIMS a3 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191106 0 36 NIMS a3 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191106 0 37 PHA03A 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191106 0 38 NIMS a3 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191106 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 35 PHA03A 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 NIMS a2 30 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 NIMS a2 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 NIMS a2 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 PHA03A 45 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 PHA03A 60 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 0 36 PHA03A 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191111 Blank 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191113 0 38 NIMS a2 70 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191113 0 39 NIMS a2 75 TD 5min img
+Data homo 2D WAXD NIMS 5min img TD 20191113 Blank 5min img
+Data homo 2D WAXD NIMS 60min img
+Data homo 2D WAXD NIMS 60min img MD
+Data homo 2D WAXD NIMS 60min img MD 20180516 E100GPL 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180516 EA9 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180516 EA9 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180516 EA9 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180516 EA9 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180517 E100GPL 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180517 E100GPL 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180517 E100GPL 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180517 E100GPL 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180517 FY6 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180518 EA9 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180518 FY6 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180518 FY6 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180521 F300SP 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180521 F300SP 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180521 FY6 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180521 FY6 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180522 F300SP 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180522 F300SP 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180522 F300SP 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180522 FY4 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180523 FY4 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180523 FY4 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180523 FY4 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 F704NP 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 F704NP 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 F704NP 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 F704NP 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 F704NP 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180524 FY4 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180525 PM600A 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180525 PM600A 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180525 PM600A 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180525 PM600A 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180528 J700GP 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180528 J700GP 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180528 J700GP 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180528 PM600A 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180529 J105G 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180529 J105G 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180529 J700GP 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180529 J700GP 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180530 J105G 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180530 J105G 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180530 J105G 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180530 NIMS a1 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180530 NIMS a1 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 MA3 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 MA3 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 MA3 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 NIMS a1 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 NIMS a1 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180531 NIMS a1 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 MA3 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 MA3 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 PM801A 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 PM801A 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 PM801A 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180601 PM801A 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180604 MA1B 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180604 MA1B 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180604 MA1B 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180604 PM801A 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180606 MA1B 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180606 MA1B 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180607 PM900A 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180607 PM900A 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180607 PM900A 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180608 NIMS a3 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180608 NIMS a3 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180608 NIMS a3 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180608 PM900A 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180608 PM900A 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180611 NIMS a3 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180611 NIMS a3 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180611 PHA03A 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180611 PHA03A 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180611 PHA03A 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 NIMS a2 30 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 NIMS a2 45 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 NIMS a2 60 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 NIMS a2 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 NIMS a2 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 PHA03A 70 MD 60min img
+Data homo 2D WAXD NIMS 60min img MD 20180612 PHA03A 75 MD 60min img
+Data homo 2D WAXD NIMS 60min img ND
+Data homo 2D WAXD NIMS 60min img ND 20180309 EA9 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180309 EA9 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180312 E100GPL 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180312 EA9 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180312 EA9 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180313 E100GPL 45 ND 60min 2 img
+Data homo 2D WAXD NIMS 60min img ND 20180313 E100GPL 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180313 E100GPL 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180314 E100GPL 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180314 EA9 30 ND 60min 3 img
+Data homo 2D WAXD NIMS 60min img ND 20180314 FY6 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180314 FY6 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180314 FY6 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180314 FY6 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180316 F300SP 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180316 F300SP 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180316 F300SP 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180316 F300SP 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180316 FY6 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180319 F300SP 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180319 FY4 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180319 FY4 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180319 FY4 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 F704NP 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 F704NP 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 F704NP 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 F704NP 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 FY4 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180320 FY4 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180322 F704NP 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180322 PM600A 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180322 PM600A 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180322 PM600A 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180322 PM600A 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180323 J700GP 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180323 J700GP 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180323 PM600A 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180326 J105G 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180326 J700GP 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180326 J700GP 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180326 J700GP 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180327 J105G 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180327 J105G 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180327 J105G 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180328 J105G 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180328 NIMS a1 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180329 NIMS a1 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180329 NIMS a1 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180402 MA3 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180402 MA3 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180402 NIMS a1 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180402 NIMS a1 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180403 MA3 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180403 MA3 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180403 MA3 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180403 PM801A 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180403 PM801A 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180404 MA1B 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180404 MA1B 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180404 PM801A 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180404 PM801A 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180404 PM801A 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180405 MA1B 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180405 MA1B 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180405 MA1B 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180405 PM900A 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180405 PM900A 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180409 NIMS a3 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180409 PM900A 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180409 PM900A 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180409 PM900A 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180410 NIMS a3 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180410 NIMS a3 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180410 NIMS a3 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180410 NIMS a3 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180410 PHA03A 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180411 PHA03A 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180411 PHA03A 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180411 PHA03A 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180411 PHA03A 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180412 NIMS a2 30 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180412 NIMS a2 45 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180412 NIMS a2 60 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180412 NIMS a2 70 ND 60min img
+Data homo 2D WAXD NIMS 60min img ND 20180412 NIMS a2 75 ND 60min img
+Data homo 2D WAXD NIMS 60min img TD
+Data homo 2D WAXD NIMS 60min img TD 20180412 EA9 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180413 EA9 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180413 EA9 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180413 EA9 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180416 E100GPL 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180416 E100GPL 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180416 E100GPL 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180416 E100GPL 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180416 E100GPL 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180417 EA9 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180417 FY6 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180417 FY6 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180417 FY6 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180417 FY6 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 F 300SP 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 F 300SP 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 F 300SP 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 F 300SP 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 F 300SP 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180418 FY6 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180419 FY4 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180419 FY4 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180419 FY4 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180419 FY4 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180419 FY4 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180420 F704NP 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180420 F704NP 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180420 F704NP 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180420 F704NP 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180420 F704NP 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180423 PM600A 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180423 PM600A 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180423 PM600A 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180423 PM600A 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180424 J 700GP 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180424 J 700GP 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180424 J 700GP 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180424 J 700GP 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180424 PM600A 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180426 J 105G 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180426 J 105G 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180426 J 700GP 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180427 J 105G 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180427 J 105G 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180427 J 105G 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180427 NIMS a1 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180427 NIMS a1 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180501 MA3 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180501 MA3 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180501 NIMS a1 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180501 NIMS a1 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180501 NIMS a1 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180502 MA3 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180502 MA3 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180502 MA3 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180502 PM801A 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180507 PM801A 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180507 PM801A 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180508 MA1B 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180508 MA1B 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180508 MA1B 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180508 PM801A 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180509 MA1B 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180509 MA1B 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180509 PM900A 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180510 NIMS a3 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180510 PM900A 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180510 PM900A 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180510 PM900A 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180510 PM900A 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180511 NIMS a3 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180511 NIMS a3 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180511 NIMS a3 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180511 NIMS a3 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 NIMS a2 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 PHA03A 30 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 PHA03A 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 PHA03A 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 PHA03A 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180514 PHA03A 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180515 NIMS a2 45 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180515 NIMS a2 60 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180515 NIMS a2 70 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180515 NIMS a2 75 TD 60min img
+Data homo 2D WAXD NIMS 60min img TD 20180515 PM801A 70 TD 60min 2 img
+Data homo 2D WAXD NIMS 60min img TD 20180522 F300SP 70 TD 60min 2 img

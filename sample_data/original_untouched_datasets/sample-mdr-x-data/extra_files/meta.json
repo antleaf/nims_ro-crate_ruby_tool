@@ -1,0 +1,319 @@
+{
+  "@xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+  "data": {
+    "attributes": {
+      "common-term": {
+        "@disclosure": "Public",
+        "basic-data-description": {
+          "data-history": [
+            {
+              "created-date-at-origin": {
+                "date": "2019-08-23",
+                "time": "T06:04:50Z"
+              },
+              "deposit-to-core-date": {
+                "date": "2019-11-12",
+                "time": ""
+              },
+              "latest-modified-date-at-origin": {
+                "date": "2019-08-23",
+                "time": "T06:05:09Z"
+              }
+            }
+          ],
+          "data-identifier": {
+            "data-local-identifier": "DCStag-43465723",
+            "data-permanent-identifier": "urn:DATA_IDENTIFIER.dpfc.nims.go.jp:8ffc02eb-b582-438d-9854-4c1f7e9944c9"
+          },
+          "data-title": "XPS_PHI_QUANTERA_narrow.spe",
+          "deposit-execution-identifier": {
+            "description": "API-FWK",
+            "identifier-type": "nims-internal",
+            "nims-identifier": "99999"
+          },
+          "general-description": "",
+          "licenses": [
+            {
+              "additional-description": "",
+              "license": "QXX"
+            }
+          ],
+          "organization": {
+            "description": "",
+            "identifier-type": "descriptional",
+            "organization-description": {
+              "title-major-organization": "NIMS",
+              "title-sub-organization": "統合型材料開発・情報基盤部門 材料データプラットフォームセンター 材料データ解析グループ"
+            },
+            "organization-identifier": ""
+          },
+          "project": {
+            "@authorized-project": false,
+            "project-identifier": "DCStagid_43463167"
+          },
+          "stakeholders": {
+            "author-identifier": [
+              {
+                "description": "[masked]",
+                "identifier-type": "nims-internal",
+                "nims-identifier": "[masked]"
+              }
+            ],
+            "contact-person-identifier": [
+              {
+                "description": "[masked]",
+                "identifier-type": "nims-internal",
+                "nims-identifier": "[masked]"
+              }
+            ],
+            "data-curator-identifier": [
+              {
+                "description": "[masked]",
+                "identifier-type": "nims-internal",
+                "nims-identifier": "[masked]"
+              }
+            ],
+            "data-depositor-identifier": {
+              "description": "API-FWK",
+              "identifier-type": "nims-internal",
+              "nims-identifier": "99999"
+            }
+          },
+          "system-history": [
+            {
+              "data-delivery": {
+                "directed-systems": [
+                  22
+                ],
+                "directing-repository": true,
+                "treating-core-system": "Passing"
+              },
+              "data-origin-system": 13
+            }
+          ],
+          "visibility": [
+            {
+              "visibility": "Public"
+            }
+          ],
+          "data-origin": "experiments"
+        },
+        "instrument-description": [
+          {
+            "identifier": {
+              "identifier-type": "local-identifier",
+              "local-identifier": "DCStagid-37553398"
+            },
+            "instrument-description": "Description",
+            "instrument-functions": [
+              {
+                "maincategory-code": "Q30",
+                "subcategory-code": "Q387"
+              }
+            ],
+            "instrument-type": "Model Number",
+            "managing-organization": {
+              "description": "",
+              "identifier-type": "identifier",
+              "organization-description": {
+                "title-major-organization": "NIMS",
+                "title-sub-organization": "Instrumentation Department"
+              },
+              "organization-identifier": ""
+            },
+            "manufacturer": {
+              "description": "",
+              "identifier-type": "identifier",
+              "organization-description": {
+                "title-major-organization": "Maker"
+              },
+              "organization-identifier": ""
+            },
+            "name": "[masked]",
+            "operator-identifier": {
+              "description": "[masked]",
+              "identifier-type": "nims-internal",
+              "nims-identifier": "[masked]"
+            },
+            "process-date": {
+              "date": "2017-06-05",
+              "time": ""
+            }
+          }
+        ],
+        "specimen-description": {
+          "explanation": "Si(100)基板上に厚さ25±10nmで形成されたSiO2熱酸化膜で，結晶構造はアモルファス.AtomWork掲載のSiO2は全て結晶性物質のようであるが，本材料はアモルファスである． CAS#:   7631-86-9",
+          "final-state": "",
+          "initial-state": "Si-2O",
+          "process-purchase-date": {
+            "date": "2018-08-26",
+            "time": ""
+          }
+        }
+      },
+      "domain-specific-term": {
+        "@disclosure": "Public",
+        "characterization-methods": {
+          "@disclosure": "Public",
+          "method": [
+            {
+              "description": "",
+              "measurement-execution": [
+                {
+                  "instrumentation-site": "Instrumentaion Site",
+                  "measured-date": {
+                    "date": "2017-06-05",
+                    "time": "2017-06-05"
+                  },
+                  "methods-category": [
+                    {
+                      "analysis-field-description": "バイオ特性,電子的性質,不純物分析",
+                      "analysis-field-items": [
+                        "Q510"
+                      ],
+                      "energy-level-transition-structure": [
+                        "Cu(2p)"
+                      ],
+                      "measurement-environment": "Q513",
+                      "measurement-environment-description": "",
+                      "method-category": [
+                        {
+                          "method-maincategory-code": "Q30",
+                          "method-subcategory-code": "Q31"
+                        }
+                      ],
+                      "reference-source": "reference",
+                      "standardized-procedure": {
+                        "identifier-type": "other",
+                        "other": "standardized_procedure_specified_number"
+                      },
+                      "standardized-procedure-description": ""
+                    }
+                  ],
+                  "specimen-identifier": [
+                    {
+                      "additional-identifier-type": "pid",
+                      "local-identifier": "DCStagid-39673169",
+                      "pid": "4c7e13bb-ac6e-4116-95a9-56de9de5f514"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "specimen-types": {
+          "@disclosure": "Public",
+          "type": [
+            {
+              "chemical-composition": [
+                {
+                  "chemical-composition-identifier": [
+                    {
+                      "cas-number": "7631-86-9",
+                      "identifier-type": "CAS"
+                    }
+                  ],
+                  "description": "Si-2O"
+                }
+              ],
+              "crystallographic-structure": [
+                ""
+              ],
+              "description": "Si(100)基板上に厚さ25±10nmで形成されたSiO2熱酸化膜で，結晶構造はアモルファス.AtomWork掲載のSiO2は全て結晶性物質のようであるが，本材料はアモルファスである． CAS#:   7631-86-9",
+              "general-name": "",
+              "label": [
+                "spesimen_sio2"
+              ],
+              "material-type": [
+                {
+                  "material-type": "半導体",
+                  "sub-material-type": "シリコン"
+                }
+              ],
+              "polymer-information": "",
+              "purchase": [
+                {
+                  "item": [
+                    {
+                      "lot-identifier": "[masked]",
+                      "manufacted-date": {
+                        "date": "",
+                        "time": ""
+                      }
+                    }
+                  ],
+                  "purchase-date": {
+                    "date": "2018-08-26",
+                    "time": ""
+                  },
+                  "supplier": {
+                    "description": "",
+                    "identifier-type": "identifier",
+                    "organization-description": {
+                      "title-major-organization": "[masked]",
+                      "title-sub-organization": ""
+                    },
+                    "organization-identifier": ""
+                  }
+                }
+              ],
+              "specimen-identifier": {
+                "additional-identifier-type": "pid",
+                "local-identifier": "DCStagid-39673169",
+                "pid": "4c7e13bb-ac6e-4116-95a9-56de9de5f514"
+              },
+              "state": [
+                {
+                  "type": "form",
+                  "form-name": "wefer"
+                },
+                {
+                  "type": "phase",
+                  "phase-name": "solid"
+                }
+              ],
+              "structural-features": [
+                {
+                  "structural-features-category": "形態",
+                  "structural-features-subcategory": "アモルファス"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "id": "",
+    "included": {
+      "DCMIdataset": {},
+      "additional-attachment-pointer": {
+        "additional-for-attached-filename": {
+          "@attached-order": 0,
+          "object-data": "",
+          "object-path-name": "",
+          "url-path": ""
+        },
+        "additional-for-attached-signature": {
+          "@attached-order": 0,
+          "object-data": "",
+          "object-path-name": "",
+          "url-path": ""
+        },
+        "additional-for-attached-thumbnail": {
+          "@attached-order": 0,
+          "object-data": "",
+          "object-path-name": "",
+          "url-path": ""
+        },
+        "spared-description-for-token": {
+          "@attached-order": 0,
+          "object-data": "",
+          "object-path-name": "",
+          "url-path": ""
+        }
+      }
+    },
+    "type": ""
+  }
+}

@@ -17,7 +17,7 @@ class ROCrateGenerator
           end
         end
       end
-    rescue Exception => e
+    rescue StandardError => e
       LOG.error(e)
     end
     return crate
@@ -40,9 +40,9 @@ class ROCrateGenerator
     begin
       crate = self.create_ro_crate_from_folder(input_folder)
       ROCrate::Writer.new(crate).write(target_folder)
-      self.create_html_preview(crate,target_folder)
+      # self.create_html_preview(crate,target_folder)
       LOG.info("Wrote RO-Crate metadata to folder with path: '#{target_folder}'")
-    rescue Exception => e
+    rescue StandardError => e
       LOG.error(e)
     end
   end
@@ -51,9 +51,9 @@ class ROCrateGenerator
     begin
       crate = self.create_ro_crate_from_folder(input_folder)
       ROCrate::Writer.new(crate).write_zip(File.new(zip_file_path, 'w'))
-      self.create_html_preview(crate,target_folder)
+      # self.create_html_preview(crate,target_folder)
       LOG.info("Wrote RO-Crate metadata to zip file with path: '#{zip_file_path}'")
-    rescue Exception => e
+    rescue StandardError => e
       LOG.error(e)
     end
   end

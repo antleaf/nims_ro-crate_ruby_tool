@@ -1,0 +1,27 @@
+Measurement Technique, XPS
+Measurement Instrument, PHI Quantera SXM
+Experiment ID, 20170606
+File Property, SPECTRUM
+Operation Date-time[Year], 2017
+Operation Date-time[Month], 06
+Operation Date-time[Day], 06
+Xray Beam Diameter, 100.0 um
+Analysis source strength, 103.08W_HP
+Analyzer Mode, FAT
+Analyzer Work Function, 4.250 eV
+Xray Analyzer Angle, 45.0 deg
+Analyzer Solid Angle, 0.38 sr
+Pass Energy, 280.00 eV
+Analysis Region, Area
+Analysis Width_x, 1400.0000 um
+Analysis Width_y, 100.0000 um
+Flood Gun Voltage, 1.40 V
+Flood Gun Emission Current, 20.0 uA
+Ion Gun Voltage, 1000 V
+Peak Name, Survey
+Peak Measurement Energy Region High BE Value, 1380.0000 eV
+Peak Measurement Energy Region Low BE Value, -20.0000 eV
+Peak Measurement Energy Step, -0.5000 eV
+Acquisition Time At Each Point, 0.179640 s
+Total Acquisition Number, 5
+Comment, 1 #1 Ag foil

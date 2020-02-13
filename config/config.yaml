@@ -1,4 +1,4 @@
 log_level: DEBUG
 coloured_output: true
-sample_data_folder_path: "../sample_data/original_untouched_datasets"
-generated_ro_crates_folder_path: "../sample_data/ro_crates"
+sample_data_folder_path: "./sample_data/original_untouched_datasets"
+generated_ro_crates_folder_path: "./sample_data/ro_crates"
