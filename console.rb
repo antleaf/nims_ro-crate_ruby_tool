@@ -8,7 +8,7 @@ LOG.info("Process started")
 # ROCrateGenerator.generate_ro_crate_in_folder("#{SAMPLE_DATA_FOLDER_PATH}/work1","#{GENERATED_RO_CRATES_FOLDER_PATH}/rocrate1")
 
 #### EXAMPLE 2: Takes content from specified root folder, generates RO-Crate metadata and zips up all content + metadata to zip file. Leaves original root folder unaltered.
-#ROCrateGenerator.generate_ro_crate_as_zip("#{SAMPLE_DATA_FOLDER_PATH}/work1","#{GENERATED_RO_CRATES_FOLDER_PATH}/rocrate1.zip")
+ROCrateGenerator.generate_ro_crate_as_zip("#{SAMPLE_DATA_FOLDER_PATH}/work1","#{GENERATED_RO_CRATES_FOLDER_PATH}/rocrate1.zip")
 
 #### EXAMPLE 3: Creates RO-Crate metadata directly in specified root folder.
 # ROCrateGenerator.generate_ro_crate_in_folder("#{GENERATED_RO_CRATES_FOLDER_PATH}/work1_with_ro_crate")
