@@ -1,3 +1,0 @@
-[submodule "lib/ro-crate-ruby"]
-	path = lib/ro-crate-ruby
-	url = git@github.com:fbacall/ro-crate-ruby.git

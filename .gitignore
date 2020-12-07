@@ -1,4 +1,3 @@
-.idea/
-/config/config.yaml
-/sample_data/
+data/output/*
 .DS_Store
+.idea

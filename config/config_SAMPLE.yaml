@@ -1,4 +1,0 @@
-log_level: DEBUG
-coloured_output: true
-sample_data_folder_path: ""
-generated_ro_crates_folder_path: ""

@@ -1,16 +1,27 @@
 #!/usr/bin/env ruby
-require './lib/config'
-require './lib/ro_crate_generator'
+require 'ro_crate_ruby'
+require 'toml-rb'
+require './mdrx'
+require 'fileutils'
 
-LOG.info("Process started")
+$source_folder_path = '../mdrx_sample_data_git' # change this for your own folder containing a cloned MDR-X compatible git repo
 
-#### EXAMPLE 1: Takes content from one root folder, adds it to second root folder and creates RO-Crate metadata there. Leaves original root folder unaltered.
-# ROCrateGenerator.generate_ro_crate_in_folder("#{SAMPLE_DATA_FOLDER_PATH}/work1","#{GENERATED_RO_CRATES_FOLDER_PATH}/rocrate1")
+mdrx = MdrxProject.new(
+    'TestProject1 ',
+    'A utility for generating RDF from the Web documentation of the DCMI vocabularies',
+    'http://www.apache.org/licenses/LICENSE-2.0',
+    'Apache License 2.0',
+    './LICENSE',
+    'https://ror.org/026v1ze26',
+    'National Institute for Materials Science',
+    $source_folder_path
+)
 
-#### EXAMPLE 2: Takes content from specified root folder, generates RO-Crate metadata and zips up all content + metadata to zip file. Leaves original root folder unaltered.
-ROCrateGenerator.generate_ro_crate_as_zip("#{SAMPLE_DATA_FOLDER_PATH}/work1","#{GENERATED_RO_CRATES_FOLDER_PATH}/rocrate1.zip")
+mdrx.process_manifest
+mdrx.process_annotations
 
-#### EXAMPLE 3: Creates RO-Crate metadata directly in specified root folder.
-# ROCrateGenerator.generate_ro_crate_in_folder("#{GENERATED_RO_CRATES_FOLDER_PATH}/work1_with_ro_crate")
+# write RO-Crate
+output_folder_path = './data/output'
+FileUtils.rm_rf(Dir.glob("#{output_folder_path}/*"))
+ROCrate::Writer.new(mdrx.crate).write(output_folder_path)
 
-LOG.info("Process completed")
