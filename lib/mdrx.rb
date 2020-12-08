@@ -5,7 +5,7 @@ class MdrxProject
   # attr_accessor :toml,:name,:description,:license_id,:license_name,:license_path
   attr_reader :crate
 
-  def initialize(name, description, license_id, license_name, license_path, publisher_id, publisher_name, source_folder_path)
+  def initialize(name, description, license_id, license_name, license_path, publisher_id, publisher_name, source_folder_path,html_template_path)
     @name = name
     @description = description
     @license_id = license_id
@@ -14,6 +14,7 @@ class MdrxProject
     @publisher_id = publisher_id
     @publisher_name = publisher_name
     @source_folder_path = source_folder_path
+    @html_template_path = html_template_path
     initialise_crate
     @toml = TomlRB.load_file("#{@source_folder_path}/mdrx.toml", symbolize_keys: true)
   end
@@ -92,16 +93,19 @@ class MdrxProject
 
   def initialise_crate
     LOG.debug("initialising crate...")
-    extra_root_properties_hash = {}
-    @crate = ROCrate::Crate.new
-    extra_root_properties_hash['name'] = @name
-    extra_root_properties_hash['description'] = @description
-    @crate.add_organization(@publisher_id, {name: @publisher_name})
-    extra_root_properties_hash['publisher'] = {'@id': @publisher_id}
-    @crate.add_contextual_entity(ROCrate::Entity.new(@crate, @license_id, {'@type': 'CreativeWork'}))
-    extra_root_properties_hash['license'] = {'@id': @license_id}
-    @crate.metadata.properties.update(extra_root_properties_hash)
-    LOG.debug("Crate Initialised")
+    begin
+      @crate = ROCrate::Crate.new
+      @crate.name=@name
+      @crate.description = @description
+      @crate.publisher = {'@id': @publisher_id}
+      @crate.license = {'@id': @license_id}
+      @crate.add_organization(@publisher_id, {name: @publisher_name})
+      @crate.add_contextual_entity(ROCrate::Entity.new(@crate, @license_id, {'@type': 'CreativeWork'}))
+      @crate.preview.template = File.read(@html_template_path)
+      LOG.debug("Crate Initialised")
+    rescue StandardError => e
+      LOG.error(e)
+    end
   end
 
 end

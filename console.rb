@@ -16,7 +16,8 @@ mdrx = MdrxProject.new(
     './LICENSE',
     'https://ror.org/026v1ze26',
     'National Institute for Materials Science',
-    SOURCE_FOLDER_PATH
+    SOURCE_FOLDER_PATH,
+    HTML_TEMPLATE_PATH
 )
 
 LOG.info("Starting....")
