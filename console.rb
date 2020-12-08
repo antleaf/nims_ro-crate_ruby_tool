@@ -1,10 +1,12 @@
 #!/usr/bin/env ruby
 require 'ro_crate_ruby'
 require 'toml-rb'
-require './mdrx'
 require 'fileutils'
+require './lib/config'
+require './lib/mdrx'
 
-$source_folder_path = '../mdrx_sample_data_git' # change this for your own folder containing a cloned MDR-X compatible git repo
+LOG.info("Starting....")
+
 
 mdrx = MdrxProject.new(
     'TestProject1 ',
@@ -14,14 +16,16 @@ mdrx = MdrxProject.new(
     './LICENSE',
     'https://ror.org/026v1ze26',
     'National Institute for Materials Science',
-    $source_folder_path
+    SOURCE_FOLDER_PATH
 )
 
+LOG.info("Starting....")
 mdrx.process_manifest
 mdrx.process_annotations
 
 # write RO-Crate
-output_folder_path = './data/output'
-FileUtils.rm_rf(Dir.glob("#{output_folder_path}/*"))
-ROCrate::Writer.new(mdrx.crate).write(output_folder_path)
+FileUtils.rm_rf(Dir.glob("#{OUTPUT_FOLDER_PATH}/*"))
+ROCrate::Writer.new(mdrx.crate).write(OUTPUT_FOLDER_PATH)
+LOG.info("Uncompressed RO-Crate written to #{OUTPUT_FOLDER_PATH}")
 
+LOG.info("Completed")

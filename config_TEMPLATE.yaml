@@ -1,0 +1,4 @@
+log_level: debug
+coloured_output: true
+source_folder_path: '../mdrx_sample_data_git' # change this for your own folder containing a cloned MDR-X compatible git repo
+output_folder_path: './data/output'
