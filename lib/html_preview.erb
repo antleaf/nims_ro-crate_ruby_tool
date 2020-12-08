@@ -1,55 +1,98 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title><%= name || "New RO Crate" %></title>
-  <script type="application/ld+json"><%= metadata.generate %></script>
+  <title><%= name %></title>
+<!--  <script type="application/ld+json"><%#= metadata.generate %></script>-->
   <meta name="generator" content="https://github.com/fbacall/ro-crate-ruby">
-  <meta name="keywords" content="RO Crate">
+  <style>
+      body {
+          background-color: white;
+          color: #555555;
+          font-family: "Arial", "sans-serif";
+      }
+
+      table {
+          border-collapse: collapse;
+          width: auto;
+      }
+
+      table,th,tr,td {
+          border: 1px #cdcdcd solid;
+      }
+
+      th {
+          text-align: left;
+      }
+
+      table.invisible-layout-table, table.invisible-layout-table tr, table.invisible-layout-table td {
+          border: none;
+      }
+
+      td.field-name {
+          text-align: right;
+          font-weight: bold;
+          white-space: nowrap;
+      }
+
+  </style>
 </head>
 <body>
-<h1><%= name || "New RO Crate" %></h1>
-<% if url %>
-  <a href="<%= url %>" target="_blank"><%= url %></a>
-<% end %>
-<p>
-  <%= description %>
-</p>
-<dl>
+<h1><%= name %></h1>
+<p><%= description %></p>
+<br/>
+<table class="invisible-layout-table">
   <% if author %>
-    <dt>Author</dt>
-    <dd><%= author %></dd>
+    <tr>
+      <td class="field-name">Author:</td>
+      <td><%= author %></td>
+    </tr>
   <% end %>
   <% if contact_point %>
-    <dt>Contact</dt>
-    <dd><%= contact_point %></dd>
+    <tr>
+      <td class="field-name">Contact Point:</td>
+      <td><%= contact_point %></td>
+    </tr>
   <% end %>
   <% if publisher %>
-    <dt>Publisher</dt>
-    <dd><%= publisher.properties['name'] %></dd>
+    <tr>
+      <td class="field-name">Publisher:</td>
+      <td><%= publisher.properties['name'] %></td>
+    </tr>
   <% end %>
   <% if license %>
-    <dt>License</dt>
-    <dd><%= license.properties['@id'] %></dd>
+    <tr>
+      <td class="field-name">License:</td>
+      <td><%= license.properties['@id'] %></td>
+    </tr>
   <% end %>
-</dl>
+</table>
 
 <h2>Contents</h2>
-<ul>
+<table>
+  <tr>
+    <th>File/folder</th>
+    <th>Annotations</th>
+  </tr>
+
   <% data_entities.each do |data_entity| %>
-    <li id="__data_entity_<%= data_entity.id.gsub(/\s/, '-') %>">
-      <% if data_entity.external? %>
-        <strong><a href="<%= data_entity.id %>" target="_blank"><%= data_entity.name || data_entity.id %></a></strong>
-      <% else %>
-        <strong><%= data_entity.name || data_entity.id %></strong>
-      <% end %>
-      <% if data_entity.content_size %>
-        <br/>Size: <%= data_entity.content_size %>
-      <% end %>
-      <% if data_entity.encoding_format %>
-        <br/>Format: <%= data_entity.encoding_format %>
-      <% end %>
-    </li>
+    <tr>
+      <td><%= data_entity.id %></td>
+      <td>
+        <% if data_entity.properties['additionalProperty'] %>
+          <% data_entity.properties['additionalProperty'].each do |annotation| %>
+            <% if annotation['name'] != nil && annotation['name'] != '' %>
+              <b><%=annotation['name']%>:</b> <%=annotation['value'] %>
+            <% else %>
+              <b>(undefined):</b> <%=annotation['value'] %>
+            <% end %>
+          <% end %>
+        <% else %>
+          &nbsp;
+        <% end %>
+      </td>
+    </tr>
   <% end %>
-</ul>
+</table>
+
 </body>
 </html>

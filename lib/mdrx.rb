@@ -5,7 +5,7 @@ class MdrxProject
   # attr_accessor :toml,:name,:description,:license_id,:license_name,:license_path
   attr_reader :crate
 
-  def initialize(name, description, license_id, license_name, license_path, publisher_id, publisher_name, source_folder_path,html_template_path)
+  def initialize(name, description, license_id, license_name, license_path, publisher_id, publisher_name, source_folder_path, html_template_path)
     @name = name
     @description = description
     @license_id = license_id
@@ -36,7 +36,7 @@ class MdrxProject
           LOG.debug("Processing GRAFT instruction for #{manifest_item}...")
           manifest_item_path = manifest_item[6..((manifest_item.length) - 1)]
           folder_to_add = @source_folder_path + File::SEPARATOR + manifest_item_path
-          crate.add_directory(folder_to_add,File::SEPARATOR + manifest_item_path)
+          crate.add_directory(folder_to_add, File::SEPARATOR + manifest_item_path)
           Dir.glob("#{folder_to_add}/**/*").each do |file_to_add|
             crate_path = file_to_add.dup
             crate_path["#{@source_folder_path}"] = ''
@@ -70,19 +70,25 @@ class MdrxProject
     LOG.info("Processing annotations....")
     begin
       @toml[:annotations].each do |annotation|
-        LOG.debug("Processing annotation: #{annotation.to_s}...")
-        path_to_be_annotated = File::SEPARATOR + annotation[0].to_s
-        data_entity_to_be_annotated = @crate.dereference(path_to_be_annotated)
-        if data_entity_to_be_annotated == nil
-          data_entity_to_be_annotated = @crate.dereference(path_to_be_annotated + File::SEPARATOR)
+        if (annotation[1].values[0][:value] == File.basename(annotation[0].to_s)) && (annotation[1].values[0][:key] == nil || annotation[1].values[0][:key] == '')
+          LOG.debug("Ignoring annotation: #{annotation.to_s} because has empty key and default value (filename)")
+        else
+          LOG.debug("Processing annotation: #{annotation.to_s}...")
+          path_to_be_annotated = File::SEPARATOR + annotation[0].to_s
+          data_entity_to_be_annotated = @crate.dereference(path_to_be_annotated)
+          if data_entity_to_be_annotated == nil
+            data_entity_to_be_annotated = @crate.dereference(path_to_be_annotated + File::SEPARATOR)
+          end
+          annotation_array = []
+          existing_annotations = data_entity_to_be_annotated.properties['additionalProperty']
+          unless existing_annotations == nil then
+            annotation_array = existing_annotations
+          end
+          key_value_hash = annotation[1].values[0]
+          annotation_array << {"@type": "PropertyValue", name: key_value_hash[:key], value: key_value_hash[:value]}
+          data_entity_to_be_annotated.properties['additionalProperty'] = annotation_array
+          LOG.debug("Processed annotation: #{annotation.to_s}")
         end
-        annotation_array = []
-        existing_annotations = data_entity_to_be_annotated.properties['additionalProperty']
-        unless existing_annotations == nil then annotation_array = existing_annotations end
-        key_value_hash = annotation[1].values[0]
-        annotation_array << {"@type": "PropertyValue", name: key_value_hash[:key], value: key_value_hash[:value]}
-        data_entity_to_be_annotated.properties['additionalProperty'] = annotation_array
-        LOG.debug("Processed annotation: #{annotation.to_s}")
       end
     rescue StandardError => e
       LOG.error(e)
@@ -95,7 +101,7 @@ class MdrxProject
     LOG.debug("initialising crate...")
     begin
       @crate = ROCrate::Crate.new
-      @crate.name=@name
+      @crate.name = @name
       @crate.description = @description
       @crate.publisher = {'@id': @publisher_id}
       @crate.license = {'@id': @license_id}
