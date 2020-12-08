@@ -66,8 +66,44 @@ class MdrxProject
     end
   end
 
-  def process_annotations
-    LOG.info("Processing annotations....")
+
+  def process_manifest_annotations
+    LOG.info("Processing annotations for manifest....")
+    begin
+      @toml[:annotations].each do |annotation|
+        # if @crate.data_entities.index { |de| de.properties['@id'] == annotation[0].to_s }
+        path_to_be_annotated = File::SEPARATOR + annotation[0].to_s
+        data_entity_to_be_annotated = @crate.dereference(path_to_be_annotated)
+        if data_entity_to_be_annotated != nil
+          if (annotation[1].values[0][:value] == File.basename(annotation[0].to_s)) && (annotation[1].values[0][:key] == nil || annotation[1].values[0][:key] == '')
+            LOG.debug("Ignoring annotation: #{annotation.to_s} because has empty key and default value (filename)")
+          else
+            LOG.debug("Processing annotation: #{annotation.to_s}...")
+            # path_to_be_annotated = File::SEPARATOR + annotation[0].to_s
+            # data_entity_to_be_annotated = @crate.dereference(path_to_be_annotated)
+            if data_entity_to_be_annotated == nil
+              data_entity_to_be_annotated = @crate.dereference(path_to_be_annotated + File::SEPARATOR)
+            end
+            annotation_array = []
+            existing_annotations = data_entity_to_be_annotated.properties['additionalProperty']
+            unless existing_annotations == nil then
+              annotation_array = existing_annotations
+            end
+            key_value_hash = annotation[1].values[0]
+            annotation_array << {"@type": "PropertyValue", name: key_value_hash[:key], value: key_value_hash[:value]}
+            data_entity_to_be_annotated.properties['additionalProperty'] = annotation_array
+            LOG.debug("Processed annotation: #{annotation.to_s}")
+          end
+        end
+      end
+    rescue StandardError => e
+      LOG.error(e)
+    end
+  end
+
+
+  def process_all_annotations
+    LOG.info("Processing all annotations....")
     begin
       @toml[:annotations].each do |annotation|
         if (annotation[1].values[0][:value] == File.basename(annotation[0].to_s)) && (annotation[1].values[0][:key] == nil || annotation[1].values[0][:key] == '')

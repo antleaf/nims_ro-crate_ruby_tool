@@ -20,9 +20,11 @@ mdrx = MdrxProject.new(
     HTML_TEMPLATE_PATH
 )
 
-LOG.info("Starting....")
 mdrx.process_manifest
-mdrx.process_annotations
+mdrx.process_manifest_annotations
+
+# mdrx.crate.data_entities.each {|de| puts de.inspect}
+
 
 # write RO-Crate
 FileUtils.rm_rf(Dir.glob("#{OUTPUT_FOLDER_PATH}/*"))
